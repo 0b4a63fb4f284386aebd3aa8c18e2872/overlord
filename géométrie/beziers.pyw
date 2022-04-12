@@ -41,6 +41,10 @@ class App(ttk.Frame):
                 curve_str = self.gen_bezier_5(points)
             case 6:
                 curve_str = self.gen_bezier_6(points)
+            case 7:
+                curve_str = self.gen_bezier_7(points)
+            case 8:
+                curve_str = self.gen_bezier_8(points)
             case _:
                 self.bezierLabel['text'] = "Bad entry!"
                 return
@@ -93,6 +97,50 @@ class App(ttk.Frame):
                  "+ y({F}) t^(5)," \
                  "t,0,1) "
         return fmtstr.format(A=points[0], B=points[1], C=points[2], D=points[3], E=points[4], F=points[5])
+
+    @staticmethod
+    def gen_bezier_7(points):
+        fmtstr = "Curve(" \
+                 "x({A}) (1-t)^(6)" \
+                 "+ x({B})*6 t (1-t)^(5)" \
+                 "+ x({C})*15 t^(2) (1-t)^(4)" \
+                 "+ x({D})*20 t^(3) (1-t)^(3)" \
+                 "+ x({E})*15 t^(4) (1-t)^(2)" \
+                 "+ x({F})*6 t^(5) (1-t)" \
+                 "+ x({G}) t^(6)," \
+                 "y({A}) (1-t)^(6)" \
+                 "+ y({B})*6 t (1-t)^(5)" \
+                 "+ y({C})*15 t^(2) (1-t)^(4)" \
+                 "+ y({D})*20 t^(3) (1-t)^(3)" \
+                 "+ y({E})*15 t^(4) (1-t)^(2)" \
+                 "+ y({F})*6 t^(5) (1-t)" \
+                 "+ y({G}) t^(6)," \
+                 "t,0,1) "
+        return fmtstr.format(A=points[0], B=points[1], C=points[2], D=points[3], E=points[4], F=points[5], G=points[6])
+
+    @staticmethod
+    def gen_bezier_8(points):
+        fmtstr = "Curve(" \
+                 "x({A}) (1-t)^(7)" \
+                 "+ x({B})*7 t (1-t)^(6)" \
+                 "+ x({C})*21 t^(2) (1-t)^(5)" \
+                 "+ x({D})*35 t^(3) (1-t)^(4)" \
+                 "+ x({E})*35 t^(4) (1-t)^(3)" \
+                 "+ x({F})*21 t^(5) (1-t)^(2)" \
+                 "+ x({G})*7 t^(6) (1-t)" \
+                 "+ x({H}) t^(7)" \
+                 "," \
+                 "y({A}) (1-t)^(7)" \
+                 "+ y({B})*7 t (1-t)^(6)" \
+                 "+ y({C})*21 t^(2) (1-t)^(5)" \
+                 "+ y({D})*35 t^(3) (1-t)^(4)" \
+                 "+ y({E})*35 t^(4) (1-t)^(3)" \
+                 "+ y({F})*21 t^(5) (1-t)^(2)" \
+                 "+ y({G})*7 t^(6) (1-t)" \
+                 "+ y({H}) t^(7)" \
+                 ",t,0,1) "
+        return fmtstr.format(A=points[0], B=points[1], C=points[2], D=points[3], E=points[4], F=points[5], G=points[6],
+                             H=points[7])
 
 
 root = tk.Tk()
