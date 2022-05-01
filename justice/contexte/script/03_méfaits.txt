@@ -1,0 +1,20 @@
+- mefaits_01
+
+méfaits:
+  mensonge
+  diffamation (Aymeric)
+  mensonge copie
+  abus de faiblesse
+    abus d'autisme asperger
+  abus sexuel*
+  violence physique*
+  violence verbale/morale/psychologique*
+  exploitation d'argent
+  vol/cambriolage
+  ---
+  plannification d'assassinat
+  tentative d'assassinat
+  assassinat/meurtre
+  ---
+  association en bande organisée
+  association de malfaiteurs

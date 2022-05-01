@@ -1,0 +1,20 @@
+
+- sequelles_01
+
+séquelles*:
+  psychologique:
+    faiblesse psychologique
+    baisse d'estime de soi
+    sentiment de honte
+    dépersonnalisation
+    emprise
+    traumatisme
+    stress
+  physique (temporaire ou encore présente):
+    cicatrices [internes|externes] (entailles, ...)
+    brulures [internes|externes] (entailles, ...)
+    perforation du rectum
+    endométriose
+    lésions cérébrales (état de légume)
+    altération de la vue
+    déformation de l'abdomen
