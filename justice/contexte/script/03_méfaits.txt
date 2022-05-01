@@ -1,6 +1,8 @@
-- mefaits_01
+- mefaits_01 & mefaits_02
 
 méfaits:
+  association en bande organisée
+  association de malfaiteurs
   mensonge
   diffamation (Aymeric)
   mensonge copie
@@ -15,6 +17,3 @@ méfaits:
   plannification d'assassinat
   tentative d'assassinat
   assassinat/meurtre
-  ---
-  association en bande organisée
-  association de malfaiteurs
