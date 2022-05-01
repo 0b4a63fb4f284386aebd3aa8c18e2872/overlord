@@ -17,3 +17,9 @@ méfaits:
   plannification d'assassinat
   tentative d'assassinat
   assassinat/meurtre
+
+- méfaits_03
+
+Philippe et ses complices ont profité plusieurs fois d'un état d'ébriété dû à
+la consommation d'alcool chez les victimes. Evidemment, ils encourageaient les
+victimes à cette consommation.
