@@ -1,4 +1,11 @@
+
 - pratiques_sexuelles_01
+
+Philippe et ses complices ont abusé les victimes avec de nombreuses pratiques sexuelles.
+Cela a été fait à plusieurs reprises, des fois dans le sous-sol de l'hôtel où Philippe et son réseau
+avaient préparé tout un arsenal pour assouvir leurs envies les plus vicieuses notamment.
+
+- pratiques_sexuelles_02
 
 pratiques sexuelles*:
   prendre photos et/ou vidéos
@@ -12,6 +19,9 @@ pratiques sexuelles*:
     ejaculation faciale
   pénétration vaginale
   fellation
+
+- pratiques_sexuelles_03
+
   sodomie (douloureuse ?)
   double pénétration
   tournante / gang bang
@@ -19,30 +29,34 @@ pratiques sexuelles*:
   utilisation de sextoys hards (ordre 66, etc)
     pénétration d'objet
   cire
-  frappe (claque, cravache, etc) qui fait mal
+  frappe (claque, cravache, etc) qui font mal
     comme pratique sexuelle ?
     pour faire taire ?
 
 - sextoys_01
 
-sextoys:
-  succion/aspiration clitoris
-  magic wand
+sextoys softs:
   mini vibro
+  magic wand
   gods
+  succion/aspiration clitoris
 
 - sextoys_02
 
-god anal
-ordre 66
-masque SM
+sextoys hards:
+  god anal
+  ordre 66
+  masque SM
 
 - outils_sexe_01
 
-cire chaude
+masques pour ces messieurs
 objet (non-sextoy) présentant un risque pour le corps
   legumes
+  tournevis
+  tire-bouchon
+  objet à gratter le dos
 croix de st andré
 planche avec attaches
 menottes ou chaines
-masques pour ces messieurs
+cire chaude
