@@ -23,3 +23,8 @@ méfaits:
 Philippe et ses complices ont profité plusieurs fois d'un état d'ébriété dû à
 la consommation d'alcool chez les victimes. Evidemment, ils encourageaient les
 victimes à cette consommation.
+
+- méfaits_04
+
+Non content d'abuser les victimes, les complices de Philippe étaient payés
+pour les méfaits qu'ils réalisaient y compris les pratiques sexuelles.
