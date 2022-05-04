@@ -60,6 +60,7 @@ CTIG&co:
   Stéphane Marcilus
   automic-prof
   mongoDB guy?
+  Bouyagui
 
 Pellé:
   Raymond
