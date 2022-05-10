@@ -34,7 +34,5 @@ Tarik Ramadan, Gilles Cochet, Stéphane Gatines, Taoufik Mahraz.
 
 Lorsque Philippe décide qu'il faut se débarasser des femmes,
 tous ceux équippés d'une arme blanche tentent de tuer une des victimes avec.
-Chris -> Vivian.
-Philippe -> Morgan
-Youssef -> Morgan
-Gilles -> Rose
+
+[cf. victime_X_salopard.dec-01-nm]
