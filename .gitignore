@@ -2,3 +2,4 @@
 script/misc
 justice-defense/script/misc/
 *.~lock.*.ods#
+justice/log
