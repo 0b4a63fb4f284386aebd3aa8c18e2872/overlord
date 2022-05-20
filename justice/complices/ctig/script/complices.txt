@@ -43,29 +43,33 @@ informations dont j'ai besoin pour mon travail.
 
 - ctig_marc_laval_01
 
-Marc Laval a été un copieur-profiteur.
-Marc Laval a abusé sexuellement Vivian, Morgan et Zoé plusieurs fois.
-Il a commis au moins une pratique soft, une pratique pénétrante, une pratique physique douloureuse et une atteinte morale sur chacune d'entre elle.
+Marc Laval a été l'un des complices. Il a été un copieur-profiteur.
+Il a aussi abusé sexuellement Vivian, Morgan et Zoé plusieurs fois.
+Il a commis au moins une pratique soft, une pratique pénétrante, une pratique physique douloureuse et une atteinte morale sur chacune d'entre elle
+et d'autres victimes.
 
 - ctig_pierre_lollo_01
 
-Pierre Lollo a été un copieur-profiteur.
-Pierre Lollo a abusé sexuellement Vivian, Morgan et Zoé plusieurs fois.
-Il a commis au moins une pratique soft, une pratique pénétrante, une pratique physique douloureuse et une atteinte morale sur chacune d'entre elle.
+Pierre Lollo a été l'un des complices. Il a été un copieur-profiteur.
+Il a aussi abusé sexuellement Vivian, Morgan et Zoé plusieurs fois.
+Il a commis au moins une pratique soft, une pratique pénétrante, une pratique physique douloureuse et une atteinte morale sur chacune d'entre elle
+et d'autres victimes.
 
 - ctig_nicole_01
 
-Nicole a abusé sexuellement Zoé en utilisant un sextoy lançant des décharges électrique dans le fond du vagin.
+Nicole a été l'une des complices.
+Elle a abusé sexuellement Zoé en utilisant un sextoy lançant des décharges électrique dans le fond du vagin.
 
 - ctig_xavier_01
 
-Xavier a abusé sexuellement Vivian plusieurs fois.
+Xavier a été l'un des complices.
+Il a abusé sexuellement Vivian plusieurs fois.
 Il a commis au moins une pratique soft, une pratique pénétrante, une pratique physique douloureuse et une atteinte morale sur elle.
 Il a poussé Vivian a faire ses besoins dans une poubelle.
 
 - ctig_benedicte_joseph_01
 
-Benedicte a été l'un des complices.
+Benedicte a été l'une des complices.
 Benedicte a participé aux abus sexuels du CTIG, sur Vivian, Morgan et Zoé.
 Elle a utilisé des sextoys sur Vivian par exemple.
 Elle a pris des photos et était en charge de faire le "rapport" indiquant que les victimes
@@ -84,3 +88,24 @@ Gilles Cochet a été l'un des complices. Il a été un copieur-profiteur.
 Il a aussi abusé sexuellement Vivian, Morgan et Zoé plusieurs fois.
 Il a commis au moins une pratique soft, une pratique pénétrante, une pratique physique douloureuse et une atteinte morale sur chacune d'entre elle
 et d'autres victimes.
+
+- ctig_kevin_rustique_01
+
+Kévin Rustique a été l'un des complices. Il a été un copieur-profiteur.
+Il a aussi abusé sexuellement Vivian, Morgan et Zoé plusieurs fois.
+Il a commis au moins une pratique soft, une pratique pénétrante, une pratique physique douloureuse et une atteinte morale sur chacune d'entre elle.
+Par exemple, il a utilisé un sextoy électrique dans le vagin de Vivian. Il a également frappé Vivian.
+
+- ctig_thierry_01
+
+Thierry a été l'un des complices. Il a été un copieur-profiteur.
+Il a au moins abusé sexuellement Morgan et Zoé plusieurs fois.
+Il a commis au moins une pratique soft, une pratique pénétrante, une pratique physique douloureuse et une atteinte morale sur chacune d'entre elle.
+Par exemple, il a utilisé un sextoy électrique dans le vagin de Zoé. Il a également profité de Morgan attachée à une chaise par exemple.
+
+- ctig_alain_01
+
+Alain a été l'un des complices. Il a été un copieur-profiteur.
+Il a au moins abusé sexuellement Morgan et Zoé plusieurs fois.
+Il a commis au moins une pratique soft, une pratique pénétrante, une pratique physique douloureuse et une atteinte morale sur chacune d'entre elle.
+Par exemple, il a utilisé un sextoy électrique dans le vagin de Zoé. Il a également profité de Morgan attachée à une chaise par exemple.
