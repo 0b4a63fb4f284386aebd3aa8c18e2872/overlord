@@ -16,3 +16,13 @@ Maud Pelin a été l'une des complices. Elle a été une profiteuse abusant des 
 - amis_agathe_begault_01
 
 Agathe Begault a été l'une des complices, bien que victime à la fin. Elle a été une profiteuse abusant des victimes.
+
+- amis_annelyse_boury_01
+
+Anne-Lyse Boury a été l'une des complices. Elle a été une profiteuse abusant des victimes.
+A cause de ses mensonges, elle a permis à Nicolas Moulin d'abuser sexuellement au moins une des victimes.
+
+- amis_nicolas_moulin_01
+
+Nicolas Moulin a été l'un des complices. Il a été un copieur-profiteur abusant des victimes.
+Il a aussi abusé sexuellement au moins une des victimes, Morgan par exemple.
