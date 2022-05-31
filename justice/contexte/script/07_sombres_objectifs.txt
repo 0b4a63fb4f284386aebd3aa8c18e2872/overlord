@@ -141,3 +141,7 @@ bien précise: le changement de la couleure de peau, devenant noire bien sûr. C
 
 Philippe et ses complices disposent d'armes et notamment d'armes militaires comme des mitraillettes.
 Cependant, ce réseau est aussi une puissance militaire possédant ses propres avions de combat ou drones.
+
+- chaos_force_armée_02
+
+Le réseau du Chaos, disposant de sa propre force militaire, possède des armes chimiques.
