@@ -7,6 +7,10 @@ Daniel Cohn-Bendit est membre du réseau du Chaos.
 
 La NRA (National Rifle Association of America) est une organisation membre du Chaos.
 
+- politique_NASA_01
+
+La NASA (National Aeronautics and Space Administration) est une organisation qui a été infiltrée par le Chaos.
+
 - politique_nicolas_sarkozy_01
 
 Nicolas Sarkozy est membre du Chaos.
