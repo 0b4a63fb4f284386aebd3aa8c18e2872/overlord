@@ -145,3 +145,7 @@ Cependant, ce réseau est aussi une puissance militaire possédant ses propres a
 - chaos_force_armée_02
 
 Le réseau du Chaos, disposant de sa propre force militaire, possède des armes chimiques.
+
+- chaos_esclavage_01
+
+Le réseau du Chaos entreteint un réseau d'esclaves.
