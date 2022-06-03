@@ -21,3 +21,12 @@ C'est l'un des meneurs de groupe de l'opération de chaos orchestrée au stade d
 
 Cyril Hannouna est un membre du Chaos.
 C'est l'un des meneurs de groupe de l'opération de chaos orchestrée au stade de France le samedi 28 mai 2022.
+
+- connus_zied_ayar
+
+Zied Ayar est un membre du Chaos.
+C'est l'un des meneurs de groupe de l'opération de chaos orchestrée au stade de France le samedi 28 mai 2022.
+
+- connus_patrick_cohen
+
+Patrick Cohen est un membre du Chaos.
