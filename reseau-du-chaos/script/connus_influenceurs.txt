@@ -17,6 +17,10 @@ réseau comme Pierre Lollo, qui, rappelons-le, est un agent des renseignements f
 Rayanne B. est un membre du Chaos.
 C'est l'un des meneurs de groupe de l'opération de chaos orchestrée au stade de France le samedi 28 mai 2022.
 
+- connus_ted_morris_01
+
+Ted Morris est un membre du Chaos.
+
 - connus_cyril_hannouna
 
 Cyril Hannouna est un membre du Chaos.
