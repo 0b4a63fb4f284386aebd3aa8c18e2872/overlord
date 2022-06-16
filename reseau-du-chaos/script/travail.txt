@@ -1,0 +1,27 @@
+
+- travail_SIEOL_01
+
+Patrice Gasc est un complice du réseau du Chaos et d'Yves notamment.
+Il est à l'origine de la mise en scène consistant à faire croire que l'entreprise SOUAL
+requiert des modifications sur le projet SIEOL.
+
+- travail_SIEOL_02
+
+Le projet SIEOL est un projet développé et maintenu au CTIG.
+Ce projet avait été laissé à l'abandon depuis plus de 10 ans.
+L'environnement de développement (le système d'exploitation, les outils, l'organisation du code, des scripts et des tests)
+est resté tel quel depuis.
+Certaines fonctionnalités de développement jamais mises en place ou non maintenues manquent sur ce projet
+ à mon arrivée au CTIG comme le debogage pas à pas de la version Net du projet.
+
+ - travail_SIEOL_03
+
+Ce projet a été ressorti d'outre-tombe juste pour me mettre en difficulté dans mon travail au CTIG.
+Il demande des connaissances et compétences techniques d'un développeur confirmé.
+(Au passage, c'est à l'opposé avec ce que présente le CTIG indiquant que le besoin d'une expertise technique n'est pas nécessaire.)
+
+- travail_SIEOL_04
+
+Le réseau du Chaos, Yves, a demandé à Patrice Gasc, complice du réseau de faire une utilisation multi-thread de la dll
+alors qu'elle ne peut pas être utilisée ainsi, SOUAL et Patrice GASC le savent très bien.
+Marc est au courant de ce plan consistant à me mettre en difficulté via ce faux bug créé de toute pièce par Patrice Gasc.
