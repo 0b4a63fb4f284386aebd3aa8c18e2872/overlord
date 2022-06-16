@@ -25,3 +25,9 @@ Il demande des connaissances et compétences techniques d'un développeur confir
 Le réseau du Chaos, Yves, a demandé à Patrice Gasc, complice du réseau de faire une utilisation multi-thread de la dll
 alors qu'elle ne peut pas être utilisée ainsi, SOUAL et Patrice GASC le savent très bien.
 Marc est au courant de ce plan consistant à me mettre en difficulté via ce faux bug créé de toute pièce par Patrice Gasc.
+
+- travail_developpeur_confirmé_01
+
+Mon expérience en développement m'a permis d'aider Kévin W dans l'une de ses tâches récemment.
+En effet, j'ai pu l'aiguiller sur la compréhension de l'architecture d'un programme qu'il doit étendre.
+- Je vois la différence d'expérience, s'était-il exclamé Lundi 13 Juin.
