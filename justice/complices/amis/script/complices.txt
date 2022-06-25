@@ -33,6 +33,10 @@ Maud Pelin a été l'une des complices. Elle a été une profiteuse abusant des 
 
 Agathe Begault a été l'une des complices, bien que victime à la fin. Elle a été une profiteuse abusant des victimes.
 
+- amis_agathe_begault_02
+
+Agathe Begault est au courant du projet d'Yves consistant à accoupler Sylvestre avec Zoé.
+
 - amis_boris_liger_01
 
 Boris Liger a été l'un des complices. Il a été un copieur-profiteur abusant des victimes.
