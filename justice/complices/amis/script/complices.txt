@@ -78,3 +78,23 @@ C'est un violeur. Par exemple, il a violé Vivian. Il a violé Sonali également
 Mael est l'un des complices de l'évènement de 2020 organisés par Yves, Marie et Morgan.
 Il a abusé de la confiance des victimes et il les a abusées sexuellement.
 Par exemple, il a abusé sexuellement Vivian et il a violé Zoé.
+
+- amis_clément_01
+
+Clément, connaissance de Kévin Wanaverbeck, est un membre du Chaos.
+C'est un copieur-profiteur qui a abusé au moins une victime et qui a abusé sexuellement au moins une victime.
+Par exemple, il a abusé de Vivian et il l'a abusée sexuellement.
+
+- amis_dylan_01
+
+Dylan, connaissance de Kévin Wanaverbeck, est un membre du Chaos.
+C'est un copieur-profiteur qui a abusé au moins une victime et qui a abusé sexuellement au moins une victime.
+Par exemple, il a abusé de Vivian et il l'a abusée sexuellement.
+
+- amis_margaux_01
+
+Margaux, connaissance de Kévin Wanaverbeck, est une complice du réseau du Chaos.
+
+- amis_alexandra_01
+
+Alexandra, connaissance de Kévin Wanaverbeck, est une complice du réseau du Chaos.
