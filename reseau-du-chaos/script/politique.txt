@@ -88,3 +88,13 @@ Le Chaos s'est employé dernièrement à essayer de faire croire le contraire.
 - politique_emirats_arabes_unis_01
 
 Les Emirats Arabes Unis sont un pays parrain du Chaos.
+
+- politique_juge_americains_01
+
+Les juges de la Cour Suprême des Etats-Unis :
+Clarence Thomas,
+Samuel Alito,
+Neil Gorsuch,
+Brett Kavanaugh
+et Amy Coney Barrett
+sont des membres du réseau du Chaos.
