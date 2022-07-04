@@ -303,3 +303,10 @@ Mensonge pour l'attrister et la faire craquer.
 - surveillance_yves_lysistrate_46
 
 Yves a vendu des écrits dont je suis l'auteur (notes, feuilles, cahiers, etc) pour faire de l'argent.
+
+- surveillance_yves_lysistrate_47
+
+Yves et ses complices du réseau du Chaos sont à l'origine de Github Copilot et surtout de sa politique 
+créant le conflit avec la communauté Open Source.
+En effet, cet outil payant de Microsoft, de type intelligence artificielle, permet de copier du code open source 
+dans du code privé plus aisément sans respecter la license Open Source.
