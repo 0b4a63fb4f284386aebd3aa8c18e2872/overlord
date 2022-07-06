@@ -310,3 +310,8 @@ Yves et ses complices du réseau du Chaos sont à l'origine de Github Copilot et
 créant le conflit avec la communauté Open Source.
 En effet, cet outil payant de Microsoft, de type intelligence artificielle, permet de copier du code open source 
 dans du code privé plus aisément sans respecter la license Open Source.
+
+- surveillance_yves_lysistrate_48
+
+Yves Lysistrate et ses complices du Chaos entretenaient des réseaux de drogues dans le monde 
+avec lesquels ils faisaient du profit.
