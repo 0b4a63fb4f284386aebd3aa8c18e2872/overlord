@@ -4,3 +4,4 @@ justice-defense/script/misc/
 *.~lock.*.ods#
 justice/log
 reseau-du-chaos/log
+log
