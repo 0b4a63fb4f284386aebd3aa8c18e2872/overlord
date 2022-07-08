@@ -5,4 +5,12 @@ Espionné depuis des années par Yves et le réseau du Chaos, Yves et Marie ne s
 mes idées pour leur propre profit, sans que je n'en sois bénéficiaire. Morgan a également profité de ce système.
 Je réclame à présent ce qui m'est dû.
 
+- vol_arba_cmtk_cmtkgen_01
 
+Les accusés ont fait du profit avec du code open source que j'ai créé et publié sur Github.
+Il s'agit des projets cmtk, cmtkgen, arba et ses sous-projets.
+
+- vol_grande_histoire_01
+
+J'ai fait le récit d'une histoire que j'ai nommé 'la Grande Histoire', que je compte écrire.
+Les accusés ont fait du profit ou compte exploiter ce projet d'histoire.
