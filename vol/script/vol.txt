@@ -91,3 +91,13 @@ le mouvement des gilets jaunes.
 J'ai porté l'idée d'une consultation de la population, organisée de manière citoyenne, pour établir un dialogue constructif avec la population mécontente. 
 J'appellais à "ressortir les cahiers de doléances", "demandez ce que le peuple veut". Ceci a donné l'organisation d'une consultation citoyenne 
 avec comme conclusion le "grand débat" d'EM en guise de réponse aux doléances.
+
+- vol_conseils_politiques_geopolitiques_03
+
+Désirant creusé la question de l'organisation démocratique, j'ai réfléchi à une solution technique permettant 
+d'améliorer la participation démocratique des citoyens.
+Ainsi, j'ai imaginé un site web, une agora numérique, permettant à chaque citoyen d'énoncer une idée, une proposition qui améliorait la cité
+aux différents échelons de la nation (cité, département, région, nation). Chaque citoyen français pourrait proposer une idée, 
+la soutenir ou non (+1/-1), l'enrichir avec des réponses, etc. Un forum citoyen et républicain mit à disposition par la puissance publique.
+Chaque citoyen et citoyenne aurait la possibilité de se connecter avec un système d'authentification du style FranceConnect.
+Sur le site de Front Populaire, la page 'cahier de doléances' est un bon exemple et une preuve de concept de ce que cela pourrait donner.
