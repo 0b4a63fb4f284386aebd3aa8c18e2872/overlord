@@ -110,3 +110,7 @@ Eric Zemmour est considéré comme gênant pour le Chaos.
 S'il semble écarté des médias en ce moment début juillet, 
 alors qu'il avait toujours une place pour s'exprimer, 
 c'est en partie à cause du réseau du Chaos.
+
+- politique_groupe_wagner_01
+
+Le groupe Wagner, organisation militaire est une organisation du réseau du Chaos.
