@@ -352,3 +352,9 @@ Les accusés ont fait du profit et compte exploiter encore ses idées de jeux de
 L'idée d'un Mario Kart avec des kart jouets dans son salon et un terrain personnalisable vient de l'une de mes réflexions.
 J'ai établi d'autres idées pour enrichir le concept lorsque j'ai vu la première annonce de cette idée chez Nintendo.
 Les accusés ont fait du profit et compte exploiter encore cette idée de jeu.
+
+- vol_ratp_sans_tickets_01
+
+L'idée d'adopter un système similaire au système anglais pour le réseau RATP, dans le but de diminuer et se passer des tickets,
+vient d'une de mes réflexions.
+Les accusés ont fait du profit et compte exploiter encore cette idée.
