@@ -167,3 +167,8 @@ Cet outil fait parti d'un projet ludique et éducatif que je souhaiterais faire 
 Le code d'un projet de jeu avec Godot appelé 'Moonshot'.
 Peut-être le code utilisé pour des compétitions de programmation organisées par Codingame: coding_game, ocean_of_bot_code,
 pacman_codingame.
+
+- vol_one_piece_01
+
+J'ai réfléchi à des idées sur le manga et l'animé One Piece.
+Yves Lysistrate les a utilisées pour réaliser des profits.
