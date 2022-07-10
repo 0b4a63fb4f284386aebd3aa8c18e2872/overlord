@@ -156,6 +156,12 @@ entre la Turquie et la Syrie, entre la Turquie via l'Azerbaidjan et l'Arménie.
 
 Je me suis employé à trouver des solutions pour les conflits entre l'Occident et la Chine.
 
+- vol_conseils_politiques_geopolitiques_09
+
+Parmi les avis politiques que j'ai pu donner, j'ai émis plusieurs fois 
+un conseil indiquant que l'Etat devrait garder un oeil sur tel ou tel sujet, technologie, sciences étudié, 
+voire investisse dedans.
+
 - vol_github_dev_projects_01
 
 J'ai mis à disposition sur Github un bon nombre de projets de développement C++, Python et CMake via le compte 'arapelle'.
