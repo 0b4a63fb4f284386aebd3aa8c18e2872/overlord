@@ -5,6 +5,11 @@ Espionné depuis des années par Yves et le réseau du Chaos, Yves et Marie ne s
 mes idées pour leur propre profit, sans que je n'en sois bénéficiaire. Morgan a également profité de ce système.
 Je réclame à présent ce qui m'est dû.
 
+- vol_profit_sur_mon_dos_02
+
+Mc Kinsey a été utilisé par le réseau du Chaos pour faire du profit sur mes conseils et avis, 
+notamment politiques et geopolitiques, mais pas que.
+
 - vol_arba_cmtk_cmtkgen_01
 
 Les accusés ont fait du profit avec du code open source que j'ai créé et publié sur Github.
