@@ -172,6 +172,11 @@ voire investisse dedans.
 Depuis quelques années, je fais la promotion du Rafale, fleuron de l'industrie française.
 Mon avis et mes arguments sur cet engin ont été grandement exploités par les accusés pour faire du profit.
 
+- vol_conseils_politiques_geopolitiques_11
+
+L'idée de réparer le sous-marin nucléaire d'attaque 'Perle' avec le sous-marin 'Saphir' vient de l'une de mes idées.
+Les accusés ont fait du profit avec cette idée de réparation.
+
 - vol_github_dev_projects_01
 
 J'ai mis à disposition sur Github un bon nombre de projets de développement C++, Python et CMake via le compte 'arapelle'.
