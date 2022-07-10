@@ -270,3 +270,9 @@ basé sur le concept des 'mots commençant par'. On définit au début d'une man
 par lequel les mots doivent commencer. A tour de rôle, chaque personne doit trouver un mot non prononcé commençant par ces 
 lettres, ce son. Au fur et à mesure, j'ai imaginé des cartes d'action venant pimenter le déroulement du jeu.
 Les accusés ont fait du profit et compte exploiter davantage cet idée de jeu de société.
+
+- vol_cinema_01
+
+Mes goûts, mes avis, mes idées ont été exploités par les accusés pour la réalisation de films.
+Voici une première liste de films concernés:
+Old -> Cruella
