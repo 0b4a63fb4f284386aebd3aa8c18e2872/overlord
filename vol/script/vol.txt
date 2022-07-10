@@ -290,3 +290,12 @@ Les accusés ont fait du profit et compte exploiter encore longtemps cette idée
 
 L'idée de robot tondeuse vient de l'une de mes réflexions.
 Les accusés ont fait du profit et compte exploiter encore longtemps cette idée industrielle.
+
+- vol_golden_sun_like_01
+
+Passionné et fan de la franchise de jeux vidéo Golden Sun, j'ai réfléchi à un jeu vidéo de style 
+JRPG tour par tour similaire. Le système de combat est très inspiré par le système des djinns de Golden Sun 
+avec des particularités. De plus, j'introduis la nation de groupe de combats. Le groupe de combattant peut se retrouver 
+séparé en deux groupes en plein milieu du combat, ou bien, ils peuvent être encerclés par deux groupes.
+Les actions sont soit sur une cible, un groupe, un clan (l'ensemble des groupes des alliés ou des ennemis).
+Les accusés ont fait du profit et compte exploiter encore cette idée industrielle.
