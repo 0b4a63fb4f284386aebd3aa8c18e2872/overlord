@@ -338,3 +338,11 @@ L'un était un énorme plateau en carton, où le labyrinthe prenait place dans u
 Un autre a été réalisé avec Alexandre Pellé, où le labyrinthe était découpés en 4. Chaque section correspondait à 
 un univers de fiction que nous aimions bien.
 Les accusés ont fait du profit et compte exploiter ses idées de jeux de société.
+
+- vol_board_game_labyrinthe_02
+
+Plus récemment, j'ai travaillé à nouveau sur l'idée de jeux de société avec des labyrinthes comme plateau.
+J'essaye de faire en sorte que ces jeux soient étendus facilement. L'idée est que le plateau soit composé 
+de tuiles (mini-labyrinthe) à assembler en début de partie ou en court de partie. Ainsi, la durée et la difficulté varient 
+suivant le nombre de tuiles et la complexité des tuiles.
+Les accusés ont fait du profit et compte exploiter encore ses idées de jeux de société.
