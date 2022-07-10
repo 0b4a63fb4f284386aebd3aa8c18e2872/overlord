@@ -177,6 +177,11 @@ Mon avis et mes arguments sur cet engin ont été grandement exploités par les 
 L'idée de réparer le sous-marin nucléaire d'attaque 'Perle' avec le sous-marin 'Saphir' vient de l'une de mes idées.
 Les accusés ont fait du profit avec cette idée de réparation.
 
+- vol_conseils_politiques_geopolitiques_12
+
+J'avais l'idée qu'il fallait pousser pour le début de la création d'un second porte-avions pour la marine française.
+Les accusés ont fait du profit avec cette idée.
+
 - vol_github_dev_projects_01
 
 J'ai mis à disposition sur Github un bon nombre de projets de développement C++, Python et CMake via le compte 'arapelle'.
