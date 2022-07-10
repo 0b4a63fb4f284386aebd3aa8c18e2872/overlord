@@ -236,3 +236,13 @@ incrustées dans un bracelet, qui faisait de lui un Kastin, sorte de mage.
 Les accusés ont fait du profit et compte exploiter davantage cette histoire.
 Par exemple, le manga animé Kiba est inspiré de certaines de mes idées. 
 En effet, le personnage principal dans cet histoire peut générer des billes de feu depuis des pierres incrustées dans son bras gauche.
+
+- vol_scenario_pinceau_et_couleurs_01
+
+Quand j'étais à l'IUT, j'ai commencé à imaginer un jeu vidéo de type metroidvania.
+Le personnage contrôlé par le joueur avait comme arme/outil un pinceau aussi grand qu'une lance capable 
+d'utiliser des peintures magiques. Le rouge pour le feu, le bleu pour l'eau, le cyan pour la glace, etc.
+Le joueur devait découvrir de nouvelles couleurs et de nouveaux pouvoirs au fur et à mesure du jeu, 
+et lui permettre d'explorer davantage ce monde fictif.
+Plus tard, ce personnage a fini par être intégré dans l'une des intrigues de l'HF avec les esprits.
+Les accusés ont fait du profit et compte exploiter davantage ce scénario et ce concept de jeu.
