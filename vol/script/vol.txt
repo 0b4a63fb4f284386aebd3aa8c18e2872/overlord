@@ -370,3 +370,9 @@ J'ai eu l'idée de réaliser un livre de recettes incontournables de la cuisine 
 en collaboration avec un/des professionnels du métier.
 Le but étant d'entretenir cette part de la culture française et donner goût à cuisiner.
 Les accusés ont fait du profit et compte exploiter encore cette idée de livre.
+
+- vol_conseil_investissement_01
+
+Parmi les avis d'investissement que j'ai pu donner, j'ai émis plusieurs fois 
+un conseil indiquant qu'il serait bon d'investir dans tel ou tel sujet, technologie, sciences étudié.
+Les accusés ont fait du profit et compte encore en faire avec ces conseils en investissement.
