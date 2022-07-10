@@ -216,3 +216,11 @@ Quand j'étais en CM2, j'ai commencé l'écriture d'une histoire un peu style ha
 A l'époque, j'avais écrit plusieurs chapitres lus par différents camarades de classe.
 Des enfants découvraient une maison hantée, ses mystères et les créatures qui y sont liées.
 Les accusés ont fait du profit et compte exploiter davantage cette histoire.
+
+- vol_HF_Python_01
+
+Quand j'étais en CM2 ou début collège, j'ai commencé l'écriture d'une histoire d'heroic-fantasy nommée 'Python'.
+A l'époque, j'avais écrit quelques pages et chapitres.
+Quatre adolescents se retrouvaient téléportés dans un monde fantasiste où chacun doté du pouvoir d'un élément (eau, feu, air, terre) 
+devait lutter contre l'antagoniste principal nommé Python, un serpent géant.
+Les accusés ont fait du profit et compte exploiter davantage cette histoire.
