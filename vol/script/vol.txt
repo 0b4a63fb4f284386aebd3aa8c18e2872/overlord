@@ -363,3 +363,10 @@ Les accusés ont fait du profit et compte exploiter encore cette idée.
 
 La chanson Jerusalema vient de l'une de mes idées.
 Les accusés en ont fait du profit et compte encore l'exploiter.
+
+- vol_cuisine_livre_recettes_01
+
+J'ai eu l'idée de réaliser un livre de recettes incontournables de la cuisine française 
+en collaboration avec un/des professionnels du métier.
+Le but étant d'entretenir cette part de la culture française et donner goût à cuisiner.
+Les accusés ont fait du profit et compte exploiter encore cette idée de livre.
