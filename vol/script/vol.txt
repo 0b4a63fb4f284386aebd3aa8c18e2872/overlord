@@ -167,6 +167,11 @@ Parmi les avis politiques que j'ai pu donner, j'ai émis plusieurs fois
 un conseil indiquant que l'Etat devrait garder un oeil sur tel ou tel sujet, technologie, sciences étudié, 
 voire investisse dedans.
 
+- vol_conseils_politiques_geopolitiques_10
+
+Depuis quelques années, je fais la promotion du Rafale, fleuron de l'industrie française.
+Mon avis et mes arguments sur cet engin ont été grandement exploités par les accusés pour faire du profit.
+
 - vol_github_dev_projects_01
 
 J'ai mis à disposition sur Github un bon nombre de projets de développement C++, Python et CMake via le compte 'arapelle'.
