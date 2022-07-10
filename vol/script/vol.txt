@@ -276,3 +276,8 @@ Les accusés ont fait du profit et compte exploiter davantage cet idée de jeu d
 Mes goûts, mes avis, mes idées ont été exploités par les accusés pour la réalisation de films.
 Voici une première liste de films concernés:
 Old -> Cruella
+
+- vol_cinema_02
+
+Une liste de films MARVEL.
+
