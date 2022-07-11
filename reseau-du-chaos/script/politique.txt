@@ -114,3 +114,8 @@ c'est en partie à cause du réseau du Chaos.
 - politique_groupe_wagner_01
 
 Le groupe Wagner, organisation militaire est une organisation du réseau du Chaos.
+
+- politique_upr_01
+
+Yves et ses complices sont responsables d'une bonne partie des problèmes que rencontre l'UPR depuis des années.
+Les déboires de l'UPR depuis deux ans (les conflits internes, l'accusation de FA d'agression) sont de la responsabilité du Chaos.
