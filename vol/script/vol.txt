@@ -449,3 +449,15 @@ Pour la numération, il est important de faire associer à l'enfant une quantit�
 peut s'écrire de différentes manières via un tableau, ou l'on a une représentation de la quantité (3 bonbons), 
 la quantité chiffré (3), et la représentation lettrée (le mot 'trois').
 Les accusés ont fait du profit et compte encore en faire avec ces méthodes d'instruction.
+
+- vol_streaming_netflix_01
+
+L'idée d'un service/d'une plate-forme de streaming vient de l'une de mes réflexions.
+Netflix a émergé de cette réflexion.
+Les accusés ont fait du profit et compte exploiter encore longtemps cette idée industrielle.
+
+- vol_streaming_canalplus_01
+
+L'idée d'une offre de streaming regroupement les principaux partenaires (Canal+, Netflix et Disney+) vient de l'une de mes réflexions.
+L'offre paquet Canal+ a émergé de cette réflexion.
+Les accusés ont fait du profit et compte exploiter encore longtemps cette idée industrielle.
