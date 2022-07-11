@@ -437,3 +437,15 @@ Le but étant d'éveiller leur esprit critique et de discuter leur place où leu
 Un autre but est de préparer petit à petit les enfants et les adolescents à des problématiques plus complexes ou profondes 
 telles qu'on peut les voir en terminal au lycée.
 Les accusés ont fait du profit et compte encore en faire avec ces conseils sur l'instruction.
+
+- vol_instruction_methode_numeration_01
+
+Je me suis penché sur le problème qu'ont certains enfants avec le calcul ou la numération.
+Ainsi, j'ai pensé des approches leur permettant de pallier leur difficulté ou d'expliquer avec plus d'efficacité.
+Certains considèrent le calcul comme trop abstrait. J'ai imaginé une manière de le rendre plus concret voire même matériel si besoin.
+Je donnais l'exemple d'associer des quantités de feutres bien en mains et de faire faire les calculs aux enfants avec ces objets concrets 
+et de leur faire écrire en parallèle la représentation chiffrée.
+Pour la numération, il est important de faire associer à l'enfant une quantité matérielle/conrète et de lui expliquer que cette quantité 
+peut s'écrire de différentes manières via un tableau, ou l'on a une représentation de la quantité (3 bonbons), 
+la quantité chiffré (3), et la représentation lettrée (le mot 'trois').
+Les accusés ont fait du profit et compte encore en faire avec ces méthodes d'instruction.
