@@ -194,6 +194,11 @@ Le code d'un projet de jeu avec Godot appelé 'Moonshot'.
 Peut-être le code utilisé pour des compétitions de programmation organisées par Codingame: coding_game, ocean_of_bot_code,
 pacman_codingame.
 
+- vol_github_dev_projects_02
+
+Le code et les idées de l'un de mes projets de jeu d'IA appelé 'jeydia' sur Github
+fait partie des projets avec lesquels les accusés ont fait du profit ou compte exploiter.
+
 - vol_one_piece_01
 
 J'ai réfléchi à des idées sur le manga et l'animé One Piece.
