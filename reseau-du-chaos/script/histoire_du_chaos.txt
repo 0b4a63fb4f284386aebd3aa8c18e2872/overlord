@@ -301,7 +301,7 @@ Vivian est menée en bateau par Sylvestre et Agathe qui lui mentent notamment po
 Ils jouent le jeu d'Yves et donnent des informations (diffamantes) sur moi, plutôt que d'expliquer à Vivian qu'elle n'a pas vraiment 
 à craindre de me rencontrer. Ils exploitent le conditionnement du Chaos, suivent le plan, sympathisent et profitent.
 
-- hdc_vivian_06
+- hdc_rose_04
 
 Un nouveau piège avec Rose est tenté à la Japan Expo avec la complicité de Lionel.
 Cette fois-ci, ils ont mis le paquet. Rose doit porter une tenue 'bunny' d'un personnage de Manga.
