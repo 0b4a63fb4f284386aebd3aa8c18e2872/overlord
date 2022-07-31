@@ -409,7 +409,7 @@ Point de vu logement, je suis en location avec deux autres personnes dont une é
 Elle est assez jolie, mais la réglementation du Smith College est claire : bien que je ne sois pas professeur, mon status m'interdit 
 une relation amoureuse ou plus avec une étudiante du Smith College.
 
-- hdc_smith_college_02
+- hdc_smith_college_02a
 
 Ce n'est pas un hasard si cette étudiante se retrouve dans ma collocation. Elle est ici en partie comme intermédiaire de Vivian 
 qui a envie d'avoir de mes nouvelles et qui récupère petit à petit de sa crise d'anorexie.
