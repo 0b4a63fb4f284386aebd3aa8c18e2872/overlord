@@ -528,6 +528,13 @@ Passionné par le BLOB, cette créature unique en son genre,
 je me demande comment celui-ci évolue dans l'espace.
 Les accusés ont fait du profit avec cette idée de recherche.
 
+- vol_physique_01
+
+J'ai établi une hypothèse sur l'existence d'espaces-temps infinis plus grand que d'autres, et qui seraient emboités 
+les uns dans les autres.
+Je me demandais si un phénomène dans un univers infini plus grand et englobant le nôtre pouvait expliqué la dillatation de notre univers.
+Les accusés ont repris cette hypothèse pour eux et ont fait du profit avec cette idée.
+
 - vol_simplecurses_01
 
 (https://github.com/metal3d/bashsimplecurses)
