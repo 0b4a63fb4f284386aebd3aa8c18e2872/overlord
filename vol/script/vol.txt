@@ -479,3 +479,24 @@ Les accusés ont fait du profit et compte exploiter encore longtemps cette idée
 L'idée d'une offre de streaming regroupement les principaux partenaires (Canal+, Netflix et Disney+) vient de l'une de mes réflexions.
 L'offre paquet Canal+ a émergé de cette réflexion.
 Les accusés ont fait du profit et compte exploiter encore longtemps cette idée industrielle.
+
+- vol_fonction_publique_01
+
+J'ai travaillé au CTIG pendant 1,5 an.
+J'en ai profité pour faire une critique constructive des méthodes et de l'organisation au sein du CTIG.
+Ainsi, j'ai émis plusieurs idées et conseils pour améliorer :
+- L'environnement des informations.
+- Les bonnes pratiques de développement.
+- Les choix techniques et les outils à utiliser.
+- Mes conseils pour la méthode agile
+Bon nombre de ces idées ou conseils ont été repris par des complices du Chaos au sein du CTIG qui les faisaient passer pour les leurs.
+
+Ces idées ont permis de pointer du doigt les failles dans certaines organisations de la fonction publique.
+
+- vol_fonction_publique_02
+
+Constatant les problèmes de recrutement dans la fonction publique, notamment au CTIG, 
+j'ai pensé la cohérence d'un CDI adapté à la fonction publique. Un contrat qui s'adapte suivant les besoins 
+d'une fonction qui peut changer/muter/disparaitre à un endroit donné du territoire.
+En bref, trouver un intermédiaire entre le CDD, les prestataires ET le status de fonctionnaire.
+Les accusés ont fait du profit et compte exploiter encore cette idée.
