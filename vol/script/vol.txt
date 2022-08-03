@@ -195,6 +195,21 @@ Les accusés ont fait du profit avec cette idée de réparation.
 J'avais l'idée qu'il fallait pousser pour le début de la création d'un second porte-avions pour la marine française.
 Les accusés ont fait du profit avec cette idée.
 
+- vol_conseils_politiques_geopolitiques_13
+
+Depuis 2019, il y a eu plusieurs faits divers sur des sujets de société et de sécurité intérieure.
+Exemple, l'assassinat du professeur Samuel Paty.
+Ces faits ont amenés des réflexions sur :
+.le sépératisme
+.les "territoires perdus de la République"
+.l'extrêmisme religieux
+.le débordement policier
+.l'immigration et les conditions d'attribution pour les titres de séjours
+.l'accueil des immigrés
+
+A chaque fois, j'ai essayé de présenter des avis et solutions mesurés. 
+Il y a eu des conseils/idées sur la gestion des interpellations, voire débordements, dans les classes dû à des opinions religieuses ou ethniques.
+
 - vol_github_dev_projects_01
 
 J'ai mis à disposition sur Github un bon nombre de projets de développement C++, Python et CMake via le compte 'arapelle'.
