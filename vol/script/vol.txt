@@ -527,3 +527,10 @@ Les accusés ont fait du profit avec cette idée de recherche internationale.
 Passionné par le BLOB, cette créature unique en son genre, 
 je me demande comment celui-ci évolue dans l'espace.
 Les accusés ont fait du profit avec cette idée de recherche.
+
+- vol_simplecurses_01
+
+(https://github.com/metal3d/bashsimplecurses)
+Un jour, j'ai l'idée de faire une API simplifiée pour l'utilisation de curses en programmation Bash, 
+dans le but de pouvoir faire des petites fenêtres de dialogue dans le terminal simplement en Bash.
+Cette idée a été reprise par les accusés. Cela a donné le projet Bash Simple Curses disponible sur Github.
