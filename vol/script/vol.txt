@@ -521,3 +521,9 @@ Les accusés ont fait du profit et compte exploiter encore cette idée.
 Suite au suivi d'une des missions de Thomas Pesquet dans la SSI, j'émets l'idée 
 d'une station sous-marine internationale.
 Les accusés ont fait du profit avec cette idée de recherche internationale.
+
+- vol_ssi_01
+
+Passionné par le BLOB, cette créature unique en son genre, 
+je me demande comment celui-ci évolue dans l'espace.
+Les accusés ont fait du profit avec cette idée de recherche.
