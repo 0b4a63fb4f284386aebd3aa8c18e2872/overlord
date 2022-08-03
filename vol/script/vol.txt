@@ -535,6 +535,12 @@ les uns dans les autres.
 Je me demandais si un phénomène dans un univers infini plus grand et englobant le nôtre pouvait expliqué la dillatation de notre univers.
 Les accusés ont repris cette hypothèse pour eux et ont fait du profit avec cette idée.
 
+- vol_physique_02
+
+Je me suis posé différentes questions sur la physique.
+J'ai pu voir ces sujets abordés par Etienne Klein.
+Mes questions/réflexions ont été reprises par les accusés, ayant fait du profit avec.
+
 - vol_simplecurses_01
 
 (https://github.com/metal3d/bashsimplecurses)
