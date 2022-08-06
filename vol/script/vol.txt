@@ -729,3 +729,14 @@ La liste est la suivante:
 
 Un certains nombres de mes blagues, de mes traits d'humour, ou bien des idées de sketch ont piqué l'intérêt des accusés.
 Ces derniers ont fait du profit et compte exploiter encore ces idées, mon humour.
+
+- vol_application_smartphone_01
+
+L'idée de l'application TheFork vient de l'une de mes réflexions lorsque nous cherchions des restaurants le soir à NY 
+avec la famille Pellé. 
+Les accusés ont fait du profit avec cette idée et cette application.
+
+- vol_application_smartphone_02
+
+L'idée d'une bonne application de sport a été développé avec mes idées/conseils et l'expertise de Youssef Ouldali.
+Les accusés ont fait du profit avec cette idée et cette application.
