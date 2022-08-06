@@ -749,3 +749,23 @@ Les accusés ont fait du profit avec cette idée et cette application.
 
 L'idée d'une bonne application de sport a été développé avec mes idées/conseils et l'expertise de Youssef Ouldali.
 Les accusés ont fait du profit avec cette idée et cette application.
+
+- vol_restauration_01
+
+Passionné de cuisine et de gastronomie, j'ai eu plusieurs idées de plats ou des idées de restaurant.
+Les accusés ont fait du profit et compte exploiter encore ces idées.
+Celles-ci ont été vendues ou exploitées pour être utiliser dans la liste suivante:
+
+Le restaurant la Villa Coublay.
+Améliorations pour la Courtepaille (la carte ou bien l'élargissement des établissements).
+Le restaurant Liquide à Paris tenu par Matthias Marc.
+  Son plat Apologie de l'excès vient de l'une de mes idées de plats pour illustrer le goût et rappeler que c'est l'un 
+  des buts du cuisinier d'éveiller l'invité à explorer ce sens.
+
+- vol_restauration_02
+
+Réfléchissant à des alternatives végétariennes comme source de protéines, je trouve une recette de steack de haricots rouges.
+Je me dis que cette préparation peut être faite assez facilement pour un particulier, mais aussi par des boucher-charcutier traiteur.
+Ainsi, des clients pourraient venir acheter 300gr de steack de haricots rouges comme il viennent acheter 300gr de steack haché 
+ou de farce à tomate.
+Les accusés ont fait du profit avec cette idée.
