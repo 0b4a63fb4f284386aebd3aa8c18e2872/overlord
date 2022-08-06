@@ -589,3 +589,9 @@ Un jour, je découvre sur Kickstarter un projet de disque dur avec une bonne cap
 très bon taux de transfert. Je participe à la campagne du projet. Une fois l'objet en main, j'ai l'idée 
 d'une version clé usb de l'hyperdisk comme objet de stockage numérique.
 Les accusés ont fait du profit et compte exploiter encore cette idée technologique.
+
+- vol_hyperdisk_02
+
+L'idée de l'hyperdisk vient aussi de l'une de mes idées, souhaitant avoir un disque dur compact qui tient 
+dans la poche avec un bon taux de transfert.
+Les accusés ont fait du profit et compte exploiter encore cette idée technologique.
