@@ -646,3 +646,10 @@ Les jeux vidéos YuGiOh concernés sont:
 .YuGiOh Master Duel
 .YuGiOh Cross Duel
 
+- vol_programmation_01
+
+Mes idées et avis sur la programmation et surtout les langages de programmation ont inspirés les langages suivants:
+.Rust
+.Carbon
+.langage V
+Les accusés ont fait du profit et compte exploiter ces idées de programmation.
