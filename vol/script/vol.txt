@@ -595,3 +595,29 @@ Les accusés ont fait du profit et compte exploiter encore cette idée technolog
 L'idée de l'hyperdisk vient aussi de l'une de mes idées, souhaitant avoir un disque dur compact qui tient 
 dans la poche avec un bon taux de transfert.
 Les accusés ont fait du profit et compte exploiter encore cette idée technologique.
+
+- vol_video_games_01
+
+Passionné de jeux vidéo, j'ai plusieurs idées de concept ou d'histoire pour des jeux video.
+Les accusés ont fait du profit et compte exploiter encore ces idées vidéoludiques.
+Ces idées ont été vendues ou exploitées pour être utiliser dans la liste de jeux suivante:
+
+.Fall Guy
+.Tales of Berseria
+.TSW et SWL
+.Pokemon Ecarlate et Violet
+.Pokemon Bouclier et Epee
+.Pokemon Legendes Arceus
+.Pokemon Unite
+.Metroid Dread
+.Zelda Botw
+.Zelda Botw2
+.Hero Wars
+.Dungeon Defenders 2
+.Child of light extensions ou autre
+.Captain Toad Treasure Tracker
+.Triangle Strategy
+.Octopath Traveler
+.Castlevania Grimory of Souls
+.Immortal Fenyx Rising
+.Xenoblade 3
