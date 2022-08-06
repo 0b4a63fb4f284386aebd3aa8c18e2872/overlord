@@ -261,6 +261,15 @@ La liste des entreprises et secteurs concernés est :
     .Développement des solutions alternatives aux nucléaire
   .Préservation des compétences et de l'industrie française dans le domaine du spatial
 
+- vol_conseils_politiques_geopolitiques_15
+
+Au cours de mes séances de sport avec Youssef Ouldali, j'ai émis des réflexions et des idées permettant 
+d'améliorer la pratique sportive en France. 
+Par exemple, l'idée de découvrir les mouvements de bases pour l'entretien du corps, les bonnes pratiques alimentaires et physiques,
+comment les muscles se font, etc. 
+Bref, mettre en place une éducation et instruction sportive théorique et pratique servant pour tout un chacun au cours de sa vie.
+Les accusés ont fait du profit et compte encore profiter de ces idées sur le sport.
+
 - vol_github_dev_projects_01
 
 J'ai mis à disposition sur Github un bon nombre de projets de développement C++, Python et CMake via le compte 'arapelle'.
