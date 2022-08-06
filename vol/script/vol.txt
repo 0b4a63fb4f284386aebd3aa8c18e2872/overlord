@@ -582,3 +582,10 @@ Mes questions/réflexions ont été reprises par les accusés, ayant fait du pro
 Un jour, j'ai l'idée de faire une API simplifiée pour l'utilisation de curses en programmation Bash, 
 dans le but de pouvoir faire des petites fenêtres de dialogue dans le terminal simplement en Bash.
 Cette idée a été reprise par les accusés. Cela a donné le projet Bash Simple Curses disponible sur Github.
+
+- vol_hyperdisk_01
+
+Un jour, je découvre sur Kickstarter un projet de disque dur avec une bonne capacité mais surtout un 
+très bon taux de transfert. Je participe à la campagne du projet. Une fois l'objet en main, j'ai l'idée 
+d'une version clé usb de l'hyperdisk comme objet de stockage numérique.
+Les accusés ont fait du profit et compte exploiter encore cette idée technologique.
