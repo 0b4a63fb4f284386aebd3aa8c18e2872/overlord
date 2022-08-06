@@ -798,3 +798,26 @@ Par exemple:
 J'ai eu plusieurs idées de produits alimentaires:
 .Une sorte d'"ebly" à base de legumineuses dont les lentilles corail.
 .Un ketchup sain avec moins de sucre et moins de produits chimiques : ketchup quintessence
+
+- vol_games_01
+
+Passionné de jeux de société, j'ai eu plusieurs idées de concept à ce sujet.
+Les accusés ont fait du profit et compte exploiter encore ces idées de jeu.
+Celles-ci ont été vendues ou exploitées pour être utiliser dans la liste de jeux suivante:
+
+.Arabian Night
+.Criptide
+.Miniville
+.Scythe
+.Captain sonard 
+
+- vol_games_02
+
+L'idée d'escape games numériques que l'on peut trouver sur le site CodinGame vient de l'une de mes idées.
+Les accusés ont fait du profit et compte exploiter encore ces idées d'escape games.
+
+- vol_games_02
+
+Des idées d'escape game classiques viennent de mes idées.
+Aussi, une de mes idées de faire des jeux de type Ford Boyard a été concrétisée par une enseigne d'escape game.
+Les accusés ont fait du profit et compte exploiter encore ces idées d'escape games.
