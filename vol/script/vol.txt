@@ -245,6 +245,22 @@ Ces faits ont amenés des réflexions sur :
 A chaque fois, j'ai essayé de présenter des avis et solutions mesurés. 
 Il y a eu des conseils/idées sur la gestion des interpellations, voire débordements, dans les classes dû à des opinions religieuses ou ethniques.
 
+- vol_conseils_politiques_geopolitiques_14
+
+J'encourage, je lutte avec le verbe, pour que la France se réindustrialise et particulièrement récupérer les bijoux de familles français.
+Je lutte aussi pour dénoncer et stopper la corruption des entreprises françaises surtout celles qui sont stratégiques.
+La liste des entreprises et secteurs concernés est :
+  .Alstom
+  .INRAE (avec le CTIG)
+  .Thales
+  .les aéroports
+  .Soutien et développement du chemin de fer français.
+  .les chantiers navaux comme celui de Saint-Nazaire
+  .Préservation d'EDF
+    .Entretien et développement du nucléaire (sécurité, fusion nucléaire, etc)
+    .Développement des solutions alternatives aux nucléaire
+  .Préservation des compétences et de l'industrie française dans le domaine du spatial
+
 - vol_github_dev_projects_01
 
 J'ai mis à disposition sur Github un bon nombre de projets de développement C++, Python et CMake via le compte 'arapelle'.
