@@ -669,3 +669,9 @@ En effet, je me disais imagine "Elon Musk qui accepte un paiement en Bitcoin pou
 C'est sûr que la valeur va monter." Et lors de cette grosse montée, il est intéressant de vendre, etc.
 Cette idée à bien sûr été utilisés par les accusés, surtout quand on sait qu'Elon Musk fait partie 
 des membres du réseau du Chaos.
+
+- vol_blockchain_01
+
+Je finis par me pencher sur le fonctionnement d'une blockchain.
+J'ai alors l'idée d'utiliser la blockchain dans un système de vote à distance et dématérialisé robuste et sécurisé.
+Les accusés ont fait du profit et compte exploiter encore cette idée d'utilisation d'une blockchain.
