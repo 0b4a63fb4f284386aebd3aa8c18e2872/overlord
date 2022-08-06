@@ -622,6 +622,15 @@ Ces idées ont été vendues ou exploitées pour être utiliser dans la liste de
 .Immortal Fenyx Rising
 .Xenoblade 3
 
+- vol_video_games_02
+
+Les jeux videos suivant font aussi partie de la liste:
+
+.The Last Story
+.Pandora no To
+.Xenoblade Chronicles 1
+.Xenoblade Chronicles 2 
+
 - vol_yugioh_01
 
 Mes avis et idées sur le jeu de cartes YuGiOh ou sur les jeux vidéo YuGiOh 
