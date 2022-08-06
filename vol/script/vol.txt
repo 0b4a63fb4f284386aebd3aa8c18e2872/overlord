@@ -679,6 +679,18 @@ Mes idées et avis sur la programmation et surtout les langages de programmation
 .langage V
 Les accusés ont fait du profit et compte exploiter ces idées de programmation.
 
+- vol_programmation_02
+
+Au fil des années, le langage de programmation C++ est devenu mon langage de prédilection.
+Certaines de mes réflexions sur le langage et son standard ont été utlisées par les accusés pour faire du profit.
+Par exemple, j'ai encouragé l'idée de la fonctionnalité stacktrace dans le standard.
+
+- vol_programmation_03
+
+Utilisateur de l'utilitaire CMake dans mes projets C++, j'ai réfléchi à plusieurs améliorations.
+Ainsi, les fonctionnalités FILE_SET et les presets viennent de mes réflexions.
+Les accusés ont fait du profit sur ces idées.
+
 - vol_cryptomonnaie_01
 
 A l'IUT, je vois émerger la technologie de blockchain et la cryptomonnaie Bitcoin.
