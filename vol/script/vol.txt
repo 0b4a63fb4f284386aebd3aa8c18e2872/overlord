@@ -621,3 +621,19 @@ Ces idées ont été vendues ou exploitées pour être utiliser dans la liste de
 .Castlevania Grimory of Souls
 .Immortal Fenyx Rising
 .Xenoblade 3
+
+- vol_yugioh_01
+
+Mes avis et idées sur le jeu de cartes YuGiOh ou sur les jeux vidéo YuGiOh 
+ont été exploitées et vendues par les accusés qui ont fait du profit avec.
+
+.YuGiOh
+  .Les themes de cartes poussant plus loin les synergies dans les decks.
+  .Des themes de cartes sont inspirés de mes avis ou idées.
+  .Invocations XYZ, Synchro, Pendule et Links sont inspirées de mes idées et avis.
+
+Les jeux vidéos YuGiOh concernés sont:
+.YuGiOh Duel Links
+.YuGiOh Master Duel
+.YuGiOh Cross Duel
+
