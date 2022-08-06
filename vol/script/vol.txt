@@ -653,3 +653,10 @@ Mes idées et avis sur la programmation et surtout les langages de programmation
 .Carbon
 .langage V
 Les accusés ont fait du profit et compte exploiter ces idées de programmation.
+
+- vol_cryptomonnaie_01
+
+A l'IUT, je vois émerger la technologie de blockchain et la cryptomonnaie Bitcoin.
+Intéressé, j'ai eu différents avis sur les Bitcoins depuis 2007. 
+Pensant que ça vallait le coup d'en acheter par exemple à tel ou tel moment, ou d'en vendre à tel ou tel moment.
+Les accusés ont fait du profit et compte peut-être exploiter encore ces avis d'investissement dans les cryptomonnaies.
