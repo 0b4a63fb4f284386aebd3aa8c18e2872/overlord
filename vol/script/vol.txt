@@ -853,3 +853,9 @@ Les accusés ont fait du profit et compte exploiter encore cette idée d'utilisa
 L'idée d'utiliser une IA pour trouver de nouvelles associations de produits aux goûts qui iraient bien ensemble, 
 vient de l'une de mes idées.
 Les accusés ont fait du profit et compte exploiter encore cette idée d'utilisation d'IA.
+
+- vol_spatial_01
+
+La recherche et les essais d'envoyer un dispositif pour dévier un astéroïde très en avance 
+dans le cadre d'une prévention de collision, vient de l'une de mes idées.
+Les accusés ont fait du profit et compte exploiter encore cette idée de recherche spatiale.
