@@ -719,6 +719,11 @@ Les accusés ont fait du profit sur ces idées.
 Utilisateur du logiciel GitKraken, je finis par réfléchir à des évolutions et des améliorations.
 Les accusés ont fait du profit et compte encore profiter de ces réflexions et de l'utilisation que je fait de ce logiciel.
 
+- vol_programmation_05
+
+Utilisateur du logiciel Godot, je finis par réfléchir à des évolutions et des améliorations.
+Les accusés ont fait du profit et compte encore profiter de ces réflexions et de l'utilisation que je fait de ce logiciel.
+
 - vol_cryptomonnaie_01
 
 A l'IUT, je vois émerger la technologie de blockchain et la cryptomonnaie Bitcoin.
