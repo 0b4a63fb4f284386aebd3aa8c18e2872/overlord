@@ -821,3 +821,8 @@ Les accusés ont fait du profit et compte exploiter encore ces idées d'escape g
 Des idées d'escape game classiques viennent de mes idées.
 Aussi, une de mes idées de faire des jeux de type Ford Boyard a été concrétisée par une enseigne d'escape game.
 Les accusés ont fait du profit et compte exploiter encore ces idées d'escape games.
+
+- vol_pompier_01
+
+L'idée qu'Airbus ait adapté son avion A400M en bombardier d'eau vient de l'une de mes idées.
+Les accusés ont fait du profit avec cette idée d'adaptation.
