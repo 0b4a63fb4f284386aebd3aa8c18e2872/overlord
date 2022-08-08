@@ -860,6 +860,12 @@ La recherche et les essais d'envoyer un dispositif pour dévier un astéroïde t
 dans le cadre d'une prévention de collision, vient de l'une de mes idées.
 Les accusés ont fait du profit et compte exploiter encore cette idée de recherche spatiale.
 
+- vol_spatial_02
+
+Inspiré par le projet de Google et de ses ballons pour permettre une couverture d'un réseau internet dans les endroits 
+les reculés de la planète, Starlink est issue de l'une de mes idées.
+Les accusés ont fait du profit et compte encore exploiter cette idée industrielle et spatiale.
+
 - vol_films_et_series_01
 
 Des suites de séries et films viennent de mes avis ou mes idées.
