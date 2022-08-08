@@ -317,6 +317,15 @@ Les accusés ont fait du profit et compte exploiter encore ces idées économiqu
 Rendre la réduction d'impôts facilitée en cas de dons à des associations est une de mes idées.
 Les accusés ont fait du profit et compte exploiter encore cette idée économique.
 
+- vol_conseils_politiques_geopolitiques_22
+
+J'ai mené plusieurs réflexions sur le recyclage des déchets.
+J'encourage les nations à travailler collectivement à cela. 
+Il faut voir les déchets comme des sources de ressources, 
+et faire en sorte que cela le soit pour de plus en plus de déchets.
+Dans ce but, j'ai pensé à la désalination de l'eau de mer et le recyclage des eaux usées.
+Les accusés ont fait du profit et compte encore en faire avec ces réflexions sur le recyclage.
+
 - vol_github_dev_projects_01
 
 J'ai mis à disposition sur Github un bon nombre de projets de développement C++, Python et CMake via le compte 'arapelle'.
