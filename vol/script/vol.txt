@@ -841,3 +841,9 @@ Les accusés ont fait du profit et compte exploiter encore ces idées d'escape g
 
 L'idée qu'Airbus ait adapté son avion A400M en bombardier d'eau vient de l'une de mes idées.
 Les accusés ont fait du profit avec cette idée d'adaptation.
+
+- vol_ia_recherche_01
+
+L'idée d'utiliser une IA, comme Alpha Fold, pour la recherche sur le problème du repliement des protéines vient de l'une de mes idées.
+Ce sujet du repliement était l'un des buts de mon travail avec Ileana Streinu aux Etats-Unis.
+Les accusés ont fait du profit et compte exploiter encore cette idée d'utilisation d'IA.
