@@ -1003,3 +1003,12 @@ Les livres concernés sont:
   .Dragon Ball
   .Boruto
 
+- vol_critiques_01
+
+Comme tout le monde, j'ai mes avis, mes critiques et mes théories sur les différentes fictions, histoires que je suis.
+Les accusés ont fait du profit et compte exploiter encore mes avis, critiques et théories.
+
+Sont concernés :
+  .Théorie OnePiece, ou autre manga comme Boruto, etc
+  .Critique de films
+
