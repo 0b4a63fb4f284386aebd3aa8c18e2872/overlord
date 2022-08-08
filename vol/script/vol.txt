@@ -285,6 +285,14 @@ préfère, quand bien même elles ne soient pas dans ce fameux catalogue...
 Les accusés ont fait du profit et compte encore profiter de ces idées sur l'agriculture.
 (Même s'ils ne comptent sans doute pas corriger les problèmes liés avec le catalogue de céréales.)
 
+- vol_conseils_politiques_geopolitiques_17
+
+Les discussions sur le sujet de l'antibiorésistance, des reportages sur ce sujet et mon travail au Smith College, 
+m'ont amené à réfléchir et à soutenir l'utilisation mesurée des antibiotiques si l'on souhaite qu'ils continuent d'être 
+efficace contre les bactéries.
+La découverte des phages luttant naturellement contre les bactéries est un axe de recherche médicale que je soutiens.
+Les accusés ont fait du profit et compte encore profiter de ces idées sur l'antibiorésistance et les phages.
+
 - vol_github_dev_projects_01
 
 J'ai mis à disposition sur Github un bon nombre de projets de développement C++, Python et CMake via le compte 'arapelle'.
