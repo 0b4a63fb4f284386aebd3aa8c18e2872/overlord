@@ -293,6 +293,18 @@ efficace contre les bactéries.
 La découverte des phages luttant naturellement contre les bactéries est un axe de recherche médicale que je soutiens.
 Les accusés ont fait du profit et compte encore profiter de ces idées sur l'antibiorésistance et les phages.
 
+- vol_conseils_politiques_geopolitiques_18
+
+Bien que cela soit coûteux et qu'il y a des priorités bien terrestres, je considère la question 
+de l'exploration spatiale comme nécessaire. Et Mars en particulier.
+De plus, je réfléchis à des projets comme des fermes solaires spatiales, des bases lunaires et martiennes.
+Les accusés ont fait du profit et compte encore exploiter ces idées pour l'exploration spatiale.
+
+- vol_conseils_politiques_geopolitiques_19
+
+Lisant des articles sur le sujet, j'ai encouragé le développement de missiles hypersoniques.
+Les accusés ont fait du profit et compte encore exploiter cette idée géostratégique.
+
 - vol_github_dev_projects_01
 
 J'ai mis à disposition sur Github un bon nombre de projets de développement C++, Python et CMake via le compte 'arapelle'.
