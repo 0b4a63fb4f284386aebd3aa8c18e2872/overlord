@@ -276,6 +276,15 @@ comment les muscles se font, etc.
 Bref, mettre en place une éducation et instruction sportive théorique et pratique servant pour tout un chacun au cours de sa vie.
 Les accusés ont fait du profit et compte encore profiter de ces idées sur le sport.
 
+- vol_conseils_politiques_geopolitiques_16
+
+J'ai réfléchi sur les agricultures conventionnelle, bio et raisonnée.
+Des émissions comme Cash Investigation m'ont permis aussi de raisonner sur les céréales et la contrainte du catalogue de céréales 
+pour les agriculteurs. Au passage, je pense qu'un agriculteur devrait avoir le droit d'utiliser ses propres céréales ou celles qu'il 
+préfère, quand bien même elles ne soient pas dans ce fameux catalogue...
+Les accusés ont fait du profit et compte encore profiter de ces idées sur l'agriculture.
+(Même s'ils ne comptent sans doute pas corriger les problèmes liés avec le catalogue de céréales.)
+
 - vol_github_dev_projects_01
 
 J'ai mis à disposition sur Github un bon nombre de projets de développement C++, Python et CMake via le compte 'arapelle'.
