@@ -990,3 +990,16 @@ Maël a rencontré différents obstacles lors de sa thèse dans le sud de la Fra
 Après le visionnage d'une vidéo présentant les tenseurs, des objets mathématiques utilisés par Einstein dans ses théories, 
 je me dis que ce genre d'outil pourrait peut-être aider Maël dans ses difficultés avec les maillages anisotropiques.
 Les accusés ont profité de cette réflexion à leur avantage.
+
+- vol_livres_01
+
+Un certains nombre de livre viennent de mes idées ou avis littéraires.
+Les accusés ont fait du profit et compte exploiter encore ces idées, avis littéraires.
+
+Les livres concernés sont:
+  .Harry Potter
+  .Eragon, la fourchette, la sorcière et le dragon.
+  .GoT
+  .Dragon Ball
+  .Boruto
+
