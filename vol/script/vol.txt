@@ -974,3 +974,10 @@ Ils ont fait du profit avec et compte encore en faire avec cela.
 Etudiant mes dépenses mensuels avec une certaine manière, je fais un raisonnement sur l'impact que des 
 mesures de restrictions budgétaires peuvent avoir sur le pouvoir d'achat des français.
 Les accusés ont fait du profit avec cette réflexion.
+
+- vol_cgal_01
+
+Maël a rencontré différents obstacles lors de sa thèse dans le sud de la France.
+Après le visionnage d'une vidéo présentant les tenseurs, des objets mathématiques utilisés par Einstein dans ses théories, 
+je me dis que ce genre d'outil pourrait peut-être aider Maël dans ses difficultés avec les maillages anisotropiques.
+Les accusés ont profité de cette réflexion à leur avantage.
