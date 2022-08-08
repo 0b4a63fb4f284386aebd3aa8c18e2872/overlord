@@ -962,3 +962,15 @@ Les accusés ont fait du profit sur ces idées et conseils.
 
 La nouvelle carte de réduction sncf 26-59 ans est issue d'une de mes idées.
 Les accusés ont fait du profit avec.
+
+- vol_comptes_01
+
+Espionnant la façon dont je faisais mes comptes et la façon avec laquelle je calculais mes budgets au mois et à l'année, 
+les accusés s'en sont inspirés pour créer une solution logiciel et de gestion pour les comptes.
+Ils ont fait du profit avec et compte encore en faire avec cela.
+
+- vol_comptes_02
+
+Etudiant mes dépenses mensuels avec une certaine manière, je fais un raisonnement sur l'impact que des 
+mesures de restrictions budgétaires peuvent avoir sur le pouvoir d'achat des français.
+Les accusés ont fait du profit avec cette réflexion.
