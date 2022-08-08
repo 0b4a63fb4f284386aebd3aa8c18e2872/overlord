@@ -896,3 +896,12 @@ il me vient l'idée d'aménager ce genre de lieu avec un plancher qui permette l
 offrant un nouveau point de vue. De plus, cela permettrait d'installer une scène pour quelconque spectacle.
 Le côté rétractable permet de continuer d'admirer les sous-sols de l'endroit.
 Les accusés ont fait du profit et compte encore exploiter ces idées pour ce genre de lieu.
+
+- vol_parc_01
+
+Plusieurs idées pour le développement de Disneyland Paris viennent de mes idées.
+Ainsi, le Crush's coaster vient de la réflexion qu'il est préférable d'avoir des attractions dans le parc studio 
+qui soit davantage en lien avec les productions Disney.
+La vente de spécialités culinaires dans un coin en lien avec le film Ratatouille est une de mes idées.
+Force est de reconnaître le succès du film la Reine des Neiges, je me dis que son château pour être un lieu du parc studio.
+Les accusés ont fait du profit et compte encore exploiter ces idées pour les parcs Disney.
