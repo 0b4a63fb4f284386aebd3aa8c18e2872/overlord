@@ -1121,3 +1121,13 @@ J'ai imaginé un jeu de stratégie avec différentes civilisations/espèces.
 L'un des points intéressants est que les îles et les continents sur lesquels prospèrent les joueurs 
 bougent (continents volants ou flottants).
 Les accusés ont fait du profit et compte encore exploiter cette idée vidéoludique.
+
+- vol_projet_jeux_video_03
+
+J'ai imaginé un MMO d'HF avec des PNJ géré par des IA. Ce serait le point de départ 
+d'une saga de jeu vidéo trans-franchise, avec les créateurs et éditeurs souhaitant participer à ce projet 
+commun. Le but serait de cacher des niveaux ou des zones dans les jeux respectifs de chacun étant en lien 
+avec une histoire et quelques personnages du MMO, dont un PNJ au centre de tout cela nommé Eizel.
+Les zones et les niveaux cachés développeraient chacun plus ou moins l'intrigue et surtout des 
+crossover seraient possible (un peu comme dans Smash Bros).
+Les accusés ont fait du profit et compte encore exploiter cette idée vidéoludique.
