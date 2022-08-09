@@ -333,6 +333,14 @@ j'ai conseillé de végétaliser les villes, surtout les grandes villes, dans le
 et d'autres bienfaits naturels apportée par la végétation.
 Les accusés ont fait du profit et compte encore exploiter ce conseil politique.
 
+- vol_conseils_politiques_geopolitiques_24
+
+Parmi les idées pour diminuer les rapports délétères que certains civils ont avec la police,
+j'ai imaginé l'organisation d'activités pour faire comprendre les points de vue des policiers 
+à des jeunes ayant un avis biaisé sur la police.
+Cela à donner Kohlantess organisé par Djibril Dramé.
+Les accusés ont fait du profit et compte encore exploiter cette idée.
+
 - vol_github_dev_projects_01
 
 J'ai mis à disposition sur Github un bon nombre de projets de développement C++, Python et CMake via le compte 'arapelle'.
