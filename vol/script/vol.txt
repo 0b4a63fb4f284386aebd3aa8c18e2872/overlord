@@ -746,6 +746,14 @@ Les jeux videos suivant font aussi partie de la liste:
 .Xenoblade Chronicles 1
 .Xenoblade Chronicles 2 
 
+- vol_video_games_03
+
+Les jeux videos suivant font aussi partie de la liste:
+
+.Crash Bandicoot 4
+.Ring Fit Adventure (qui hérite de la philosophie de Quality of Life)
+.La saga Splatoon et certaines idées dans ce jeu.
+
 - vol_yugioh_01
 
 Mes avis et idées sur le jeu de cartes YuGiOh ou sur les jeux vidéo YuGiOh 
