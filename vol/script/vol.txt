@@ -1137,3 +1137,13 @@ Les accusés ont fait du profit et compte encore exploiter cette idée vidéolud
 J'ai imaginé un jeu solo et multijoueurs combinant le CasseBric et Pong.
 Les accusés ont fait du profit et compte encore exploiter cette idée vidéoludique.
 
+- vol_projet_jeux_video_05
+
+J'ai imaginé un jeu multijoueurs local (au départ) en coopération.
+Le joueur principal fait avancer un personnage dans un univers 2D comme dans Zelda.
+Le but est de récupérer des pièces et des éléments permettant d'aller au niveau suivant.
+Les powerups sont de la partie.
+Ce joueur ne voit qu'une région assez limitée de la carte autour de lui. Il doit écouter ses 
+coéquipiers lui donnant des indices sur où aller et ne pas aller, etc, pour réussir à finir le niveau en temps voulu.
+(On peut imaginer des niveaux où il y a deux joueurs avatar et les autres soutiens.)
+Les accusés ont fait du profit et compte encore exploiter cette idée vidéoludique.
