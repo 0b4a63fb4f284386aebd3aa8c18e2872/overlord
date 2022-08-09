@@ -478,6 +478,24 @@ Old -> Cruella
 
 Une liste de films MARVEL.
 
+- vol_cinema_03
+
+Voici une autre liste de films et séries concernés:
+  .La saga Jurassic World
+  .Hercule Poirot - crime de l'orient express
+  .Hercule Poirot - mort sur le nil
+  .Reminiscence
+  .Dragons
+  .Adam a travers le temps
+  .Justice League Snyder's cut
+  .Pokemon Mewtwo contre-attaque evolution
+  .Belle
+
+  .Sherlock série Bénédicte Cumberbatch
+  .Demon Slayer
+  .Parallel
+  .HPI la série
+
 - vol_aspirateur_auto_01
 
 L'idée de robot aspirateur vient de l'une de mes réflexions.
