@@ -1105,3 +1105,12 @@ Les accusés ont fait du profit et compte encore exploiter cette idée ludique.
 
 J'ai commencé à imaginer un jeu de de dames étendu avec des cartes.
 Les accusés ont fait du profit et compte encore exploiter cette idée ludique.
+
+- vol_projet_jeux_video_01
+
+Jeu 2D multi joueur Heroic-Fantasy inspiré d'autres jeux:
+  Zelda: armes/objets comme dans Zelda : arc, sceptre de feu, boomerang, lance-roquette (salade), etc.
+  TSW: Système de build & consume comme dans TSW/SWL
+    monstres sphères handicapant les joueurs
+  Des attaques combinées ou invocations nécessitant l'action commune des joueurs.
+Les accusés ont fait du profit et compte encore exploiter cette idée vidéoludique.
