@@ -1158,3 +1158,10 @@ Les accusés ont fait du profit et compte encore exploiter des idées d'architec
   dans un parc où les familles peuvent se recueillir.
 .Un Versailles 2 : Un monument comme un chateau de Versailles, pouvant accueillir des réceptions importantes publiques (ou privées si les gens 
   y mettent le prix).
+
+- vol_architecture_02
+
+J'ai eu l'idée de créer un village, une petite ville, où l'on utiliserait les innovations écologiques et les 
+modes de vie durables qui vont avec. Ce serait à la fois un exemple et une vitrine pour la transition écologique.
+J'imaginais peut-être l'appeler Lutesse.
+Les accusés ont fait du profit et compte encore exploiter cette idée.
