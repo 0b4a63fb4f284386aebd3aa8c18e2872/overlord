@@ -1131,3 +1131,9 @@ avec une histoire et quelques personnages du MMO, dont un PNJ au centre de tout 
 Les zones et les niveaux cachés développeraient chacun plus ou moins l'intrigue et surtout des 
 crossover seraient possible (un peu comme dans Smash Bros).
 Les accusés ont fait du profit et compte encore exploiter cette idée vidéoludique.
+
+- vol_projet_jeux_video_04
+
+J'ai imaginé un jeu solo et multijoueurs combinant le CasseBric et Pong.
+Les accusés ont fait du profit et compte encore exploiter cette idée vidéoludique.
+
