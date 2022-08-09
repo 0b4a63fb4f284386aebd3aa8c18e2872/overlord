@@ -496,6 +496,14 @@ Voici une autre liste de films et séries concernés:
   .Parallel
   .HPI la série
 
+- vol_cinema_04
+
+Voici une autre liste de films et séries concernés:
+.WandaVision
+.Marvel If
+.Docteur Strange 2
+.Thor 4
+
 - vol_aspirateur_auto_01
 
 L'idée de robot aspirateur vient de l'une de mes réflexions.
