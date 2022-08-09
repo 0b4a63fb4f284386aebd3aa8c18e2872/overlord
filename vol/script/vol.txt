@@ -353,6 +353,11 @@ Les accusés ont fait du profit et compte encore exploiter cette idée politique
 J'ai donné mes avis sur l'UE, l'Europe, le SCAF et l'OTAN.
 Les accusés ont fait du profit et compte encore exploiter ces avis politiques, géopolitiques et stratégiques.
 
+- vol_conseils_politiques_geopolitiques_27
+
+J'encourage à exploiter l'énergie solaire de plusieurs manières.
+Les accusés ont fait du profit et compte encore exploiter cet avis.
+
 - vol_github_dev_projects_01
 
 J'ai mis à disposition sur Github un bon nombre de projets de développement C++, Python et CMake via le compte 'arapelle'.
