@@ -348,6 +348,11 @@ j'ai encouragé le developpement de lieu de débats, d'agora, et même d'aménag
 des parcs par exemple. Cela va bien sûr avec l'organisation d'évènement de débat, bien sûr.
 Les accusés ont fait du profit et compte encore exploiter cette idée politique.
 
+- vol_conseils_politiques_geopolitiques_26
+
+J'ai donné mes avis sur l'UE, l'Europe, le SCAF et l'OTAN.
+Les accusés ont fait du profit et compte encore exploiter ces avis politiques, géopolitiques et stratégiques.
+
 - vol_github_dev_projects_01
 
 J'ai mis à disposition sur Github un bon nombre de projets de développement C++, Python et CMake via le compte 'arapelle'.
