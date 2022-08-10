@@ -123,3 +123,7 @@ Lanfranco Cirillo, architecte, est un membre du réseau du Chaos.
 - autres_membres_jerome_kerviel_01
 
 Jérôme Kerviel, ancien trader, est un membre du réseau du Chaos.
+
+- autres_membres_balkany_01
+
+Patrick Balkany et sa femme sont des membres du réseau du Chaos.
