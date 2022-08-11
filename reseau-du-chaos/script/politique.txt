@@ -173,3 +173,7 @@ abusé sexuellement les victimes.
 - politique_deputes_sinistres_01
 
 Les députés et ministres accusés ont tous profité de l'espionnage contre moi, notamment pour des idées politiques.
+
+- politique_bresil_ministre_01
+
+Paulo Guedes, ministre de l'économie brésilien, est un membre du réseau du Chaos.
