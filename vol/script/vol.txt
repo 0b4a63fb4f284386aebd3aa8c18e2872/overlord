@@ -358,6 +358,10 @@ Les accusés ont fait du profit et compte encore exploiter ces avis politiques, 
 J'encourage à exploiter l'énergie solaire de plusieurs manières.
 Les accusés ont fait du profit et compte encore exploiter cet avis.
 
+- vol_conseils_politiques_geopolitiques_28
+
+J'encourage les projets pour nettoyer l'environnement de la pollution comme The Ocean Cleanup Project.
+
 - vol_github_dev_projects_01
 
 J'ai mis à disposition sur Github un bon nombre de projets de développement C++, Python et CMake via le compte 'arapelle'.
@@ -518,6 +522,7 @@ Voici une autre liste de films et séries concernés:
 
 Voici une autre liste de films et séries concernés:
 .Mensonges
+.Bullet Train
 
 - vol_aspirateur_auto_01
 
