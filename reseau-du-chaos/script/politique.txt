@@ -181,3 +181,7 @@ Paulo Guedes, ministre de l'économie brésilien, est un membre du réseau du Ch
 - politique_sacha_houlie_01
 
 Sacha Houlié, député, est un membre du réseau du Chaos.
+
+- politique_gerard_collomb_01
+
+Gérard Collomb est un membre du réseau du Chaos.
