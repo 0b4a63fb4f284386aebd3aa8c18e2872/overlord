@@ -426,3 +426,11 @@ Ensemble, ils plannifient des tentatives d'assassinat contre moi.
 - surveillance_fentanyl_01
 
 Le fentanyl est produit par le réseau du Chaos, sa diffusion est faite dans l'intérêt du réseau.
+
+- surveillance_genocide_planetaire_01
+
+Conscient du problème de surpopulation planétaire, le réseau du Chaos cherchait par des moyens de gré 
+mais aussi de force à réduire la population mondiale. L'objectif était de réduire de 7 milliards à 4 milliards 
+la population mondiale peu importe les moyens : épidémies, guerre mondiale. La pyramide resterait stable pour eux, 
+prévoyant de remplacer les basses couches par toutes sortes de machinneries grâce à l'émergence 
+de l'intelligence artificielle.
