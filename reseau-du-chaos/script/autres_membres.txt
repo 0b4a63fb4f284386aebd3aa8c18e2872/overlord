@@ -131,3 +131,11 @@ Patrick Balkany et sa femme sont des membres du réseau du Chaos.
 - autres_membres_idriss_aberkane_01
 
 Idriss Aberkane est un membre du réseau du Chaos.
+
+- autres_membres_colocataire_01
+
+Danny Childs, ancien colocataire aux Etats-Unis, est un complice ou membre du réseau du Chaos.
+
+- autres_membres_colocataire_02
+
+Mon autre colocataire aux Etats-Unis, habitant South Street, est un complice ou membre du réseau du Chaos.
