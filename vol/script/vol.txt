@@ -45,6 +45,11 @@ Jeremie (Totem)
 Morane Jaret
 Jacques Attali
 
+- vol_profit_sur_mon_dos_03c
+
+Emmanuel Macron fait partie des personnes tirant profit de mes idées, notamment politiques.
+(Au passage, il sabotte ou atténue les idées et solutions qui vont contre le réseau du Chaos.)
+
 - vol_arba_cmtk_cmtkgen_01
 
 Les accusés ont fait du profit avec du code open source que j'ai créé et publié sur Github.
