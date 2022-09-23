@@ -147,3 +147,9 @@ Il est complice dans le copiage de mon idée de jeu de société Labyrune.
 C'est un jeu où l'on explore un labyrinthe dans lequel chaque joueur récolte des pièces de runes qu'il doit assembler 
 pour former des runes. Chaque rune offre un effet dans le jeu. Chaque rune possède des points différents.
 Il est possible d'associer des cristaux aux runes pou modifier les effets.
+
+- autres_membres_herauts_emilie_arnaud_01
+
+Emilie et Arnaud sont des complices du réseau du Chaos. 
+Ils sont complices dans le copiage de mon idée de jeu de société où l'on explore un labyrinthe composé de tuiles.
+Chaque tuile étant un mini labyrinthe.
