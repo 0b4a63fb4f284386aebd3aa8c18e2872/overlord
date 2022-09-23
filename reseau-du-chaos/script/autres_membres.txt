@@ -131,3 +131,12 @@ Patrick Balkany et sa femme sont des membres du réseau du Chaos.
 - autres_membres_idriss_aberkane_01
 
 Idriss Aberkane est un membre du réseau du Chaos.
+
+- autres_membres_janos_boudet_01
+
+Janos Boudet, travaillant chez NERD, est un membre du réseau du Chaos.
+
+- autres_membres_stephane_ray_01
+
+Stéphane Ray, travaillant chez NERD, est un membre du réseau du Chaos.
+
