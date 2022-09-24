@@ -135,10 +135,24 @@ Idriss Aberkane est un membre du réseau du Chaos.
 - autres_membres_janos_boudet_01
 
 Janos Boudet, travaillant chez NERD, est un membre du réseau du Chaos.
+Il a été un copieur-profiteur abusant d'au moins une victime. 
+Il a abusé sexuellement au moins une victime, dont Vivian et Rose.
 
 - autres_membres_stephane_ray_01
 
 Stéphane Ray, travaillant chez NERD, est un membre du réseau du Chaos.
+Il a été un copieur-profiteur abusant d'au moins une victime. 
+Il a abusé sexuellement au moins une victime, dont Vivian et Rose.
+
+- autres_membres_stephane_ray_02
+
+En ce qui concerne l'offre de NERD à laquelle j'ai postulé, je n'avais aucune chance de remporter le poste 
+car ils n'avaient aucunement l'intention de m'embaucher.
+L'exercice proposé correspondait à une problématique que j'avais énoncé à voix haute dans mon appart.
+Il s'agissait en partie d'étudier comment tester des exécutables (programme natif ou script Python).
+Leur but était essentiellement de récupérer ma solution logicielle, entre autres, à cette problématique.
+Ils prétendent que mon profil n'est pas assez intéressant pour travailler dans leur équipe de dev support, 
+alors qu'ils utilisent le code de mon projet arba dans leurs propres développements.
 
 - autres_membres_herauts_velizy_stephane_01
 
