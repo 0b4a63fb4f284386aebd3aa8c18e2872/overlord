@@ -449,3 +449,8 @@ de l'intelligence artificielle.
 - surveillance_dark_store_01
 
 Les dark stores sont une initiative opaque souhaitée par le réseau du Chaos dans son intérêt.
+
+- surveillance_fuite_gazoducs_01
+
+27 Septembre 2022
+L'explosion causant la fuite des gazoducs Nordstream 1 et 2 sont de la responsabilité du réseau du Chaos.
