@@ -810,6 +810,11 @@ Les jeux videos suivant font aussi partie de la liste:
 Les jeux videos suivant font aussi partie de la liste:
 .Zelda Triforce Heroes
 
+- vol_video_games_05
+
+Les jeux videos suivant font aussi partie de la liste:
+.The Knight Witch
+
 - vol_yugioh_01
 
 Mes avis et idées sur le jeu de cartes YuGiOh ou sur les jeux vidéo YuGiOh 
