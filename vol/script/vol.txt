@@ -528,6 +528,9 @@ Voici une autre liste de films et séries concernés:
 Voici une autre liste de films et séries concernés:
 .Mensonges
 .Bullet Train
+.Charlie's Angels de 2019
+.Everything Everywhere All at once
+.Jumeaux mais pas trop
 
 - vol_aspirateur_auto_01
 
@@ -1245,3 +1248,5 @@ Créer un parc Astérix à l'étranger avec une ville emblématique de la série
 
 Mes opinions sur les sociétés de type ESN et en particulier CAPFI, a donné l'idée de la société WeSense (Elitys).
 Des accusés ont profité de cette idée et sont auteurs de la société WeSense.
+
+- vol_terre_de_vikings_01
