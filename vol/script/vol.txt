@@ -50,6 +50,11 @@ Jacques Attali
 Emmanuel Macron fait partie des personnes tirant profit de mes idées, notamment politiques.
 (Au passage, il sabotte ou atténue les idées et solutions qui vont contre le réseau du Chaos.)
 
+- vol_profit_sur_mon_dos_03d
+
+D'autres noms à ajouter à la liste non exhaustive des accusés profiteurs:
+Taoufik Mahraz
+
 - vol_arba_cmtk_cmtkgen_01
 
 Les accusés ont fait du profit avec du code open source que j'ai créé et publié sur Github.
@@ -833,6 +838,12 @@ Les jeux vidéos YuGiOh concernés sont:
 .YuGiOh Master Duel
 .YuGiOh Cross Duel
 
+- vol_yugioh_02
+
+.YuGiOh
+  .L'archetype de cartes 'Cubic' est inspiré d'une de mes idées. A la base il s'agit d'un type de civilisation dans un jeu de stratégie
+que j'ai imaginé.
+
 - vol_programmation_01
 
 Mes idées et avis sur la programmation et surtout les langages de programmation ont inspirés les langages suivants:
@@ -1250,3 +1261,5 @@ Mes opinions sur les sociétés de type ESN et en particulier CAPFI, a donné l'
 Des accusés ont profité de cette idée et sont auteurs de la société WeSense.
 
 - vol_terre_de_vikings_01
+
+La boutique Terres de Vikings (https://terresdevikings.com/) est inspirée de mes idées et de mes goûts.
