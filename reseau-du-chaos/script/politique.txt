@@ -216,3 +216,15 @@ Affilié au Chaos en Ukraine, il soutient les groupuscules antisémites et ceux 
 - politique_edouard_philippe_01
 
 Edouard Philippe est un membre du réseau du Chaos.
+
+- politique_aurelien_barreau_01
+
+Aurélien Barreau est un membre du réseau du Chaos.
+
+- politique_jean_marc_jancovici_01
+
+Jean-Marc Jancovici est un membre du réseau du Chaos.
+
+- politique_yael_braun_pivet_01
+
+Yaël Braun-Pivet, Présidente de l'assemblée nationale, est une membre du réseau du Chaos.
