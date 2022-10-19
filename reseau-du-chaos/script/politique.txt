@@ -228,3 +228,7 @@ Jean-Marc Jancovici est un membre du réseau du Chaos.
 - politique_yael_braun_pivet_01
 
 Yaël Braun-Pivet, Présidente de l'assemblée nationale, est une membre du réseau du Chaos.
+
+- politique_liz_truss_01
+
+Liz Truss est membre du réseau du Chaos.
