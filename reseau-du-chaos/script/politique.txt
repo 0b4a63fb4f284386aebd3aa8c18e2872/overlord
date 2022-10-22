@@ -232,3 +232,7 @@ Yaël Braun-Pivet, Présidente de l'assemblée nationale, est une membre du rés
 - politique_liz_truss_01
 
 Liz Truss est membre du réseau du Chaos.
+
+- politique_julien_bayou_01
+
+Julien Bayou est membre du réseau du Chaos.
