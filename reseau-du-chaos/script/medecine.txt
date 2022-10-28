@@ -20,3 +20,11 @@ Certaines de ses patient(e)s font parti(e)s de ceux ayant subis ces abus sexuels
 - medecine_dr_moore_01
 
 Le Dr Moore, témoignant lors de l'affaire de Heard/Depp, est membre du Chaos.
+
+- medecine_dr_smadja_01
+
+Le Dr Simon SMADJA est un complice du réseau du Chaos.
+
+- medecine_dr_forissier_01
+
+Le Dr Jean-François FORISSIER est un complice du réseau du Chaos.
