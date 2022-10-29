@@ -160,7 +160,15 @@ Stéphane membre barbu de l'association 'Les hérauts de Vélizy' est un complic
 Il est complice dans le copiage de mon idée de jeu de société Labyrune.
 C'est un jeu où l'on explore un labyrinthe dans lequel chaque joueur récolte des pièces de runes qu'il doit assembler 
 pour former des runes. Chaque rune offre un effet dans le jeu. Chaque rune possède des points différents.
-Il est possible d'associer des cristaux aux runes pou modifier les effets.
+Il est possible d'associer des cristaux aux runes pour modifier les effets.
+
+- autres_membres_herauts_velizy_teddy_01
+
+Teddy membre au chapeau de l'association 'Les hérauts de Vélizy' est un complice du réseau du Chaos.
+Il est complice dans le copiage de mon idée de jeu de société Labyrune.
+Il s'agit d'un jeu où l'on explore un labyrinthe dans lequel chaque joueur récolte des pièces de runes qu'il doit assembler 
+pour former des runes. Chaque rune offre un effet dans le jeu. Chaque rune possède des points différents.
+Il est possible d'associer des cristaux aux runes pour modifier les effets.
 
 - autres_membres_herauts_velizy_01
 
