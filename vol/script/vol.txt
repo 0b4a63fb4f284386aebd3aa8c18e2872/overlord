@@ -1276,3 +1276,14 @@ Suite à des différents internes, différentes personnes ont quitté le magazin
 Trouvant cela de mauvais augure, je désirais que le journalisme scientifique ne baisse pas en qualité en France.
 De cette idée est née epsiloon.
 Les accusés ont fait du profit et compte encore exploiter cette idée de magazine.
+
+- vol_magic_maze_01
+
+Les idées composant le jeu de société Magic Maze viennent de mes réflexions. 
+En effet, j'ai toujours eu dans l'idée de faire un jeu de société avec un labyrinthe comme plateau composé 
+de tuiles de labyrinthes plus petits.
+De plus, j'apprécie les jeux coopératifs, ce qui est le cas de Magic Maze.
+J'avais réfléchi à proposer des déplacements originaux dans ce labyrinthe autre que le déplacement au dé classique, 
+ce qui est le cas de Magic Maze.
+etc
+Les accusés ont fait du profit et compte exploiter encore ces idées de jeu de société et Magic Maze.
