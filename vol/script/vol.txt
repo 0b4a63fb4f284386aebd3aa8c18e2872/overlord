@@ -1293,3 +1293,8 @@ J'avais réfléchi à proposer des déplacements originaux dans ce labyrinthe au
 ce qui est le cas de Magic Maze.
 etc
 Les accusés ont fait du profit et compte exploiter encore ces idées de jeu de société et Magic Maze.
+
+- vol_amperus_01
+
+L'entreprise Amperus, proposant des solutions pour la recharge de voiture à domicile, est issue d'une de mes idées.
+Les accusés ont fait du profit et compte exploiter encore cette idée d'entreprise.
