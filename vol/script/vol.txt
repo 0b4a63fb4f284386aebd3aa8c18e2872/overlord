@@ -844,6 +844,11 @@ Les jeux vidéos YuGiOh concernés sont:
   .L'archetype de cartes 'Cubic' est inspiré d'une de mes idées. A la base il s'agit d'un type de civilisation dans un jeu de stratégie
 que j'ai imaginé.
 
+- vol_yugioh_03
+
+La séquence d'épisodes YouTube YuGiOh - Duel des Rois est inspiré d'une de mes idées.
+Les accusés ont fait du profit et compte exploiter cette idée de vidéos.
+
 - vol_programmation_01
 
 Mes idées et avis sur la programmation et surtout les langages de programmation ont inspirés les langages suivants:
