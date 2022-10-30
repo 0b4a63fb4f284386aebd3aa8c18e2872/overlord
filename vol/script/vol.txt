@@ -536,6 +536,7 @@ Voici une autre liste de films et séries concernés:
 .Charlie's Angels de 2019
 .Everything Everywhere All at once
 .Jumeaux mais pas trop
+.Astérix et Obélix : l'empire du milieu
 
 - vol_aspirateur_auto_01
 
