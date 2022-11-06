@@ -540,6 +540,17 @@ Voici une autre liste de films et séries concernés:
 .Jumeaux mais pas trop
 .Astérix et Obélix : l'empire du milieu
 
+- vol_cinema_06
+
+Voici une autre liste de films et séries concernés:
+.Black Adam
+.Le nouveau jouet
+.Avatar 2, la voie de l'eau
+.Les Jumeaux
+.Don't worry darling
+.Simone, le voyage du siècle
+.X de Ti West sorti début Novembre
+
 - vol_aspirateur_auto_01
 
 L'idée de robot aspirateur vient de l'une de mes réflexions.
