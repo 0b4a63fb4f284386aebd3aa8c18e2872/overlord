@@ -170,6 +170,13 @@ Il s'agit d'un jeu où l'on explore un labyrinthe dans lequel chaque joueur réc
 pour former des runes. Chaque rune offre un effet dans le jeu. Chaque rune possède des points différents.
 Il est possible d'associer des cristaux aux runes pour modifier les effets.
 
+- autres_membres_herauts_velizy_teddy_02
+
+Dans la semaine du 01 au 04 novembre 2022, Agnès et Morgan ont donné une idée à Teddy pour essayer de 
+me piquer l'idée de labyrune.
+En effet, elles lui ont indiqué de venir le vendredi 04 à la soirée avec son prototype de Labyrune et 
+de le présenter comme une idée inspirée de Labicot.
+
 - autres_membres_herauts_velizy_01
 
 Les membres suivants de l'association Les Hérauts de Vélizy sont des complices du réseau du Chaos,
