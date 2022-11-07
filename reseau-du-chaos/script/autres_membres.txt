@@ -177,6 +177,8 @@ me piquer l'idée de labyrune.
 En effet, elles lui ont indiqué de venir le vendredi 04 à la soirée avec son prototype de Labyrune et 
 de le présenter comme une idée inspirée de Labicot.
 
+Prototype réalisé avec mon outil 'mazegen' disponible sur Github.
+
 - autres_membres_herauts_velizy_01
 
 Les membres suivants de l'association Les Hérauts de Vélizy sont des complices du réseau du Chaos,
