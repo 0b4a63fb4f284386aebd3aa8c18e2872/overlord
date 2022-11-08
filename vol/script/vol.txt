@@ -836,6 +836,8 @@ Les jeux videos suivant font aussi partie de la liste:
 
 Les jeux videos suivant font aussi partie de la liste:
 .The Knight Witch
+.Age of Mythology Retold
+.FINAL FANTASY XVI “AMBITION”
 
 - vol_yugioh_01
 
