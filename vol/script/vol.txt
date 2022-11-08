@@ -1311,3 +1311,9 @@ Les accusés ont fait du profit et compte exploiter encore ces idées de jeu de 
 
 L'entreprise Amperus, proposant des solutions pour la recharge de voiture à domicile, est issue d'une de mes idées.
 Les accusés ont fait du profit et compte exploiter encore cette idée d'entreprise.
+
+- vol_pass_key
+
+Les 'passkeys', système d'authentification implémentés par Google et Apple notamment, sont issus d'une de mes idées 
+suite à la découverte du programme 'pass'.
+Les accusés ont fait du profit et compte exploiter encore cette idée logicielle.
