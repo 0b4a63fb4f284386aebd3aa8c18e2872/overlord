@@ -53,6 +53,16 @@ ou bien il vend les idées en se faisant passer pour leur auteur.
 Émile, complice du Chaos, a copié mon récit sur ce que j'appelle la Grande Histoire / la Légende,
 ou bien il vend les idées en se faisant passer pour leur auteur.
 
+- elitys_netatmo_julia_01
+
+Au cours du moi d'Octobre 2022, j'ai réalisé un certains nombres de scripts bash et python.
+Un qui permet de générer des clés ssh facilement.
+Un autre qui permet de combiner les clés ssh avec pass et gpg.
+Aussi j'ai créé un script cmakepj permettant de modifier les versions des dépendances, des submodules et autre 
+d'un projet CMake C++ facilement.
+Julia, complice du réseau du Chaos, a copié ses idées de scripts ou bien vend ces idées en se faisant 
+passer pour leur auteur.
+
 - elitys_netatmo_pho_kitchen_01
 
 Les employés de chez Pho Kitchen ont fait le jeu du Chaos lorsque j'y ai commandé à emporter avec les collègues.
