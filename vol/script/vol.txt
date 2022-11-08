@@ -1319,3 +1319,4 @@ Les accusés ont fait du profit et compte exploiter encore cette idée d'entrepr
 Les 'passkeys', système d'authentification implémentés par Google et Apple notamment, sont issus d'une de mes idées 
 suite à la découverte du programme 'pass'.
 Les accusés ont fait du profit et compte exploiter encore cette idée logicielle.
+
