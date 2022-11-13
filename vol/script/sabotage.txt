@@ -11,3 +11,9 @@ dont il se nourrira.
 
 Le réseau du Chaos s'est amusé à sabotter le package Python Wand (que j'utilise au passage).
 La fonction display(), permettant d'afficher des images en mémoire, ne fonctionne plus depuis quelques temps.
+
+- sabotage_yugioh_duel_master_01
+
+Le réseau du Chaos s'est amusé à sabotter le jeu vidéo YuGiOh Duel Master (auquel je joue).
+Une fonctionnalité permettant de visualiser le nombre de cartes d'un Pack (Normal ou Secret) que 
+l'on possède pour chaque carte du pack a été retiré depuis quelques semaines.
