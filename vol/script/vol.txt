@@ -1320,3 +1320,8 @@ Les 'passkeys', système d'authentification implémentés par Google et Apple no
 suite à la découverte du programme 'pass'.
 Les accusés ont fait du profit et compte exploiter encore cette idée logicielle.
 
+- vol_smartphone_01
+
+Les fonctionnalités des smartphones permettant d'envoyer des SMS d'urgence à des contacts 
+ou de stocker des informations d'urgence accessibles même sans déverouillage sont une de mes idées.
+Les accusés, dont Yves, ont fait du profit et compte exploiter encore ces idées d'info et contact d'urgence.
