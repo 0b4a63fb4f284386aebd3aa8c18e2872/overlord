@@ -236,3 +236,7 @@ Liz Truss est membre du réseau du Chaos.
 - politique_julien_bayou_01
 
 Julien Bayou est membre du réseau du Chaos.
+
+- politique_christine_boutin_01
+
+Christine Boutin est membre du réseau du Chaos.
