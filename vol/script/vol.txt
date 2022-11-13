@@ -551,6 +551,12 @@ Voici une autre liste de films et séries concernés:
 .Simone, le voyage du siècle
 .X de Ti West sorti début Novembre
 
+- vol_cinema_07
+
+Voici une autre liste de films et séries concernés:
+.Charlie's angels 2019
+.Black Panther 2 : Wakanda Forever
+
 - vol_aspirateur_auto_01
 
 L'idée de robot aspirateur vient de l'une de mes réflexions.
