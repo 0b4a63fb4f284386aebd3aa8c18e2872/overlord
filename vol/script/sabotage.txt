@@ -7,3 +7,7 @@ bien pour me faire passer pour un mauvais conseiller.
 Quand ce n'est pas tout simplement pour créer la discorde et générer, entretenir, un conflit 
 dont il se nourrira.
 
+- sabotage_dev_wand_01
+
+Le réseau du Chaos s'est amusé à sabotter le package Python Wand (que j'utilise au passage).
+La fonction display(), permettant d'afficher des images en mémoire, ne fonctionne plus depuis quelques temps.
