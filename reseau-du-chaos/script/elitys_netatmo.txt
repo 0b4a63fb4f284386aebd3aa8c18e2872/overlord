@@ -108,6 +108,12 @@ Un thermostat radiateur. Cette idée a été piqué par Jionglang qui se faire p
 Au passage, il s'est servi de cette idée pour séduire Agnès et jouer les calimero qui ne seraient pas écoutés par son entreprise.
 Le but étant de gagner sa compassion, et plus.
 
+- elitys_netatmo_jionglang_07
+
+Jionglang a fait croire que j'avais été désagréable envers Julie et Julia sur leur code.
+Pas vraiment, je donne des conseils à ces deux collègues.
+Je continue de former depuis plusieurs jours Julia sur bash et git.
+
 - elitys_netatmo_soudure_incendie_01
 
 Si j'avais participé à l'atelier soudure, un incendie se serait déclaré.
