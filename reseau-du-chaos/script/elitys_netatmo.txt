@@ -88,3 +88,13 @@ Jionglang a participé au moins à une orgie du Chaos, au cours de laquelle il a
 La première fois que nous sommes allés manger à la pizzeria Vivaldi avec les collègues, Jionglang était présent.
 Il a diffamé en faisant croire que je l'avais critiqué, méprisé.
 
+- elitys_netatmo_jionglang_05
+
+Depuis le début d'Octobre 2022, j'ai réalisé un certains nombres de scripts bash et python.
+Un qui permet de générer des clés ssh facilement.
+Un autre qui permet de combiner les clés ssh avec pass et gpg.
+Aussi j'ai créé un script cmakepj permettant de modifier les versions des dépendances, des submodules et autre 
+d'un projet CMake C++ facilement.
+Jionglang, complice du réseau du Chaos, a copié ses idées de scripts ou bien vend ces idées en se faisant 
+passer pour leur auteur.
+
