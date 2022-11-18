@@ -250,3 +250,7 @@ Le but étant de raviver les tentions et de discréditer les russes, alors que l
 - politique_france_chaos_01
 
 Un certains nombres de policiers/CRS sont malheureusement liés au Chaos, d'où des actes dommageables plus fréquents que d'ordinaire.
+
+- politique_rishi_sunak_01
+
+Rishi Sunak est un membre du réseau du Chaos.
