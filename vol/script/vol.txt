@@ -1368,3 +1368,12 @@ Il l'a remis en état, et mes parents m'ont envoyé une photo du vélo prêt à 
 de venir me l'amener sur Vélizy accompagné d'un antivol bien connu de la famille.
 Celui qui a comme code 347.
 J'ai tenté de retrouver la photo que mes parents m'avaient envoyé, sans succès malheureusement.
+
+- vol_mon_velo_orange_01c
+
+Mon vélo orange est un VTT de marque 'hikebike'.
+
+- vol_mon_velo_orange_02
+
+Annie Trichet, une des participantes à l'atelier d'écriture m'a vu la semaine dernière avec mon vélo orange, 
+le samedi 12 novembre. J'allais en direction de la poste pour récupérer un colis, au Mail à Vélizy.
