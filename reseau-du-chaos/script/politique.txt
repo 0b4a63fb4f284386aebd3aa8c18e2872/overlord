@@ -254,3 +254,7 @@ Un certains nombres de policiers/CRS sont malheureusement liés au Chaos, d'où 
 - politique_rishi_sunak_01
 
 Rishi Sunak est un membre du réseau du Chaos.
+
+- politique_mathilde_panot_01
+
+Mathilde Panot est un membre du réseau du Chaos.
