@@ -39,3 +39,14 @@ Je souhaite récupérer l'ensemble des propriétés intellectuelles basées sur 
 
 Je souhaite condamner l'ensemble des malfaiteurs de cette affaire : les complices et membres du réseau du Chaos, 
 les abuseurs, les abuseurs sexuels, etc.
+
+- gestion_bien_des_projets_01
+
+~~ J'ai autre chose à foutre. ~~
+projets en C++
+.arba en standby
+.cmtk version 2 idem 
+projets en python
+.mohoney
+.cmakepj
+.mazegen
