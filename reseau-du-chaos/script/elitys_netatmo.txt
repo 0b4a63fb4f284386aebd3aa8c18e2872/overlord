@@ -163,6 +163,14 @@ Jionglang a fait croire que je consommais de la drogue.
 Pas du tout. Sans doute a-t-il confondu avec les médicaments (drugs en anglais) que je prenais régulièrement 
 pour améliorer mon état affaibli un peu malade (mais pas Covid).
 
+- elitys_netatmo_jionglang_15
+
+Jionglang a fait croire que je n'avais pas tiré un mot au premier repas au restaurant Vivaldi.
+J'aurais préféré prendre des notes sur mon cahier rouge plutôt que communiquer avec mes collègues.
+Faux. 
+(Qu'il se regarde dans une glace. Bien que je comprenne tout à fait la difficulté d'échanger dans 
+un lieu bruyant, avec des gens parlant une langue différente de sa langue maternelle.)
+
 - elitys_netatmo_soudure_incendie_01
 
 Si j'avais participé à l'atelier soudure, un incendie se serait déclaré.
