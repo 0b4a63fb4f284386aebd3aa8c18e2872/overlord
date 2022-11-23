@@ -1382,3 +1382,12 @@ le samedi 12 novembre. J'allais en direction de la poste pour récupérer un col
 
 Les mesures de programmation de l'éteignage des enseignes, et la loi pour faire pression sont encouragées/nourries par mes idées.
 Les accusés ont fait du profit et compte encore exploiter ces idées.
+
+- vol_vie_au_travail_facilite_01
+
+Au travail, L'idée d'un trombi interactif + un jeu pour faciliter à trouver le nom des personnes 
+ou leur visage, est issue de mes idées.
+Un plan des locaux pour trouver les salles et les personnes également.
+L'idée de tiddlywiki (https://tiddlywiki.com/) qui permet de se faire simplement un petit wiki portatif 
+est aussi une de mes idées.
+Les accusés ont fait du profit et compte encore exploiter ces idées.
