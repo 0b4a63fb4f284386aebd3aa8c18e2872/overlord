@@ -257,4 +257,8 @@ Rishi Sunak est un membre du réseau du Chaos.
 
 - politique_mathilde_panot_01
 
-Mathilde Panot est un membre du réseau du Chaos.
+La député Mathilde Panot est un membre du réseau du Chaos.
+
+- politique_ugo_bernalicis_01
+
+Le député Ugo Bernalicis est un membre du réseau du Chaos.
