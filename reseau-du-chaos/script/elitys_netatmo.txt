@@ -152,6 +152,11 @@ J'étais dans un état de coup de fatigue, comme cela arrive à plus d'une perso
 Si je veux faire une longue pause relaxante, je sais qu'il y a le fauteuil massant, 
 que je n'ai jamais utilisé.
 
+- elitys_netatmo_jionglang_13
+
+Jionglang a fait croire que j'ai causé un accident du travail.
+C'est faux. Il n'y a eu aucun évènement de la sorte, encore moins de rapport qui le stipule.
+
 - elitys_netatmo_soudure_incendie_01
 
 Si j'avais participé à l'atelier soudure, un incendie se serait déclaré.
