@@ -157,6 +157,12 @@ que je n'ai jamais utilisé.
 Jionglang a fait croire que j'ai causé un accident du travail.
 C'est faux. Il n'y a eu aucun évènement de la sorte, encore moins de rapport qui le stipule.
 
+- elitys_netatmo_jionglang_14
+
+Jionglang a fait croire que je consommais de la drogue.
+Pas du tout. Sans doute a-t-il confondu avec les médicaments (drugs en anglais) que je prenais régulièrement 
+pour améliorer mon état affaibli un peu malade (mais pas Covid).
+
 - elitys_netatmo_soudure_incendie_01
 
 Si j'avais participé à l'atelier soudure, un incendie se serait déclaré.
