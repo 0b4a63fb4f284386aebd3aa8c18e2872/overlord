@@ -1261,10 +1261,15 @@ Les accusés ont fait du profit et compte encore exploiter cette idée.
 Hélène du stage d'écriture au musée du jouet a été complice du réseau du Chaos pour cela.
 Paul ayant participé au même stage est le complice du Chaos ayant voulu s'approprier 'Chroniques de la montagne de Chyr'.
 
-- vol_ecriture_03
+- vol_ecriture_03a
 
 J'ai l'idée de faire un stage sur le thème des mondes et univers parallèles que l'ont traverse dans un voyage.
 Les accusés ont fait du profit et compte encore exploiter cette idée.
+
+- vol_ecriture_03b
+
+C'est notamment Alexandre qui aime se faire passer pour l'auteur de cette idée de stage sur les mondes parallèles 
+et les mondes croisés. Cette idée m'avait été siphonné par Yves il y a plusieurs mois.
 
 - vol_psy_01
 
