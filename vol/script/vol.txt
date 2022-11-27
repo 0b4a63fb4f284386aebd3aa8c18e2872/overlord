@@ -67,12 +67,20 @@ Il s'agit des projets cmtk, cmtkgen, arba et ses sous-projets.
 J'ai fait le récit d'une histoire que j'ai nommé 'la Grande Histoire', que je compte écrire.
 Les accusés ont fait du profit ou compte exploiter ce projet d'histoire.
 
-- vol_HF_esprits_01
+- vol_HF_esprits_01a
 
 J'ai fait le récit d'une histoire que j'ai nommé 'Histoire d'heroic fantasy avec les esprits'.
 Dans cette fiction se trouvent des personnages avec des noms comme Jys, Loyann, Aleck et Mey.
 J'ai rédigé quelques morceaux de cette histoire.
 Les accusés ont fait du profit et compte exploiter davantage ce projet d'histoire.
+
+- vol_HF_esprits_01b
+
+C'est notamment Alexandre Pellé qui aime se faire passer pour l'auteur de cette histoire d'heroic fantasy avec les esprits.
+(Histoire dont il ne serait pas l'héritier s'il m'arrivait quelquechose.)
+Je crois qu'il devrait redescendre du nuage d'invulnérabilité surlequel le réseau du Chaos l'a placé.
+Il ferait mieux de rebosser les mystères pourpres, pour lequel je lui avais donné un ou deux conseils pour 
+donner plus de cohérence à sa méchante.
 
 - vol_SpaceX_fusee_reutilisable_01
 
