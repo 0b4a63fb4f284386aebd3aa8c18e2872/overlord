@@ -595,6 +595,13 @@ Voici une autre liste de films et séries concernés:
 .Petaouchnok
 .La Maison
 
+- vol_cinema_08
+
+Voici une autre liste de films et séries concernés:
+.Le Menu
+.Last Night in SOHO
+.The Northman
+
 - vol_aspirateur_auto_01
 
 L'idée de robot aspirateur vient de l'une de mes réflexions.
