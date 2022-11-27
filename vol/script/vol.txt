@@ -1290,11 +1290,20 @@ modes de vie durables qui vont avec. Ce serait à la fois un exemple et une vitr
 J'imaginais peut-être l'appeler Lutesse.
 Les accusés ont fait du profit et compte encore exploiter cette idée.
 
-- vol_ecriture_01
+- vol_ecriture_01a
 
 L'ensemble de mes textes, mes idées écrites, pensés dans le cadre d'ateliers d'écriture 
 ou de stage d'écriture ont été capté par les accusés.
 Ces derniers ont fait du profit et compte encore exploiter ces écrits et idées.
+
+- vol_ecriture_01b
+
+Mes textes, mes phrases les plus intéressantes ont été mises aux enchères par le réseau du Chaos.
+
+- vol_ecriture_01c
+
+Alexandre aime se faire passer pour l'auteur des textes suivants par exemple : 
+.Jonquilles photogéniques
 
 - vol_ecriture_02
 
