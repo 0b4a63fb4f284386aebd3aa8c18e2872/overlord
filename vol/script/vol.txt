@@ -1304,6 +1304,7 @@ Mes textes, mes phrases les plus intéressantes ont été mises aux enchères pa
 
 Alexandre aime se faire passer pour l'auteur des textes suivants par exemple : 
 .Jonquilles photogéniques
+.Epopée de l'éphémère.
 
 - vol_ecriture_02
 
