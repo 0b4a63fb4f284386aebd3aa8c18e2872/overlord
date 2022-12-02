@@ -344,3 +344,7 @@ Tous les garde-fous imaginés ne pourront empêchés un triste drame d'arriver a
 - autres_membres_fary_lopes_01
 
 Fary Lopes, dit Fary, est un membre du réseau du Chaos.
+
+- autres_membres_kanye_west_01
+
+Kanye West est un membre du réseau du Chaos.
