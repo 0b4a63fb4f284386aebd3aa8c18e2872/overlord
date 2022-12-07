@@ -165,3 +165,10 @@ Mes avis sont appréciés et mes collègues ont des positions similaires.
 Par exemple, sur l'utilisation évidente de ticket pour la gestion des tâches, la plannification des tâches et évaluer la 
 quantité de travail possible de l'équipe sur une durée donnée, etc.
 Mes avis sont appréciés pour l'organisation technique (review de code, etc).
+
+- surveillance_diffamation_03
+
+Le réseau du Chaos a voulu faire croire que je tenais des propos violents et où insultants, notamment au travail.
+Bof, certainement pas au boulot. Si cela avait été le cas, j'aurais eu une remarque, un avertissement. Ce qui n'a pas été le cas.
+
+Je prône la résolution de conflits grâce à la diplomatie et l'utilisation de la communication assertive.
