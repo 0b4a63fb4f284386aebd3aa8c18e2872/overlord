@@ -130,7 +130,7 @@ Le but étant que je décède dans l'accident bien sûr.
 Plusieurs personnes regrettent de ne pas avoir profité d'occasions passées pour m'assassiner.
 C'est le cas de Lionel De Sequeira.
 
-- surveillance_diffamation_01
+- surveillance_diffamation_01a
 
 07 décembre 2022
 
@@ -142,3 +142,13 @@ Depuis 2019, je réfléchis à des solutions pour endiguer la pandémie. Atteind
 Il a été déclaré que les vaccins autorisés (Pfizer, Moderna, ...) n'empêchaient pas la transmission.
 Au moins, ils permettent d'empêcher les formes graves, et donc la congestion dans les urgences et les difficultés des soignants 
 dans les hopitaux. (Ce qui est une de mes réflexions depuis des mois.)
+
+- surveillance_diffamation_01b
+
+07 décembre 2022
+Je suis vacciné contre le Covid19 avec une nouvelle dose, la 4è.
+
+- surveillance_diffamation_01c
+
+07 décembre 2022
+J'ai acheté des masques que je porte dans les transports, et au travail, dans le but de limiter la circulation d'agents pathogènes.
