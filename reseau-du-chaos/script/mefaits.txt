@@ -152,3 +152,16 @@ Je suis vacciné contre le Covid19 avec une nouvelle dose, la 4è.
 
 07 décembre 2022
 J'ai acheté des masques que je porte dans les transports, et au travail, dans le but de limiter la circulation d'agents pathogènes.
+
+- surveillance_diffamation_02
+
+Le réseau du Chaos a voulu faire croire que j'étais un mauvais manager.
+Pour cela, il aurait fallu tenir un poste officiel de manager.
+
+Au passage, j'apporte chez Netatmo mes avis pour renforcer la communication et l'organisation intra-équipe et inter-équipes, 
+bref un peu le management.
+Mes avis sont appréciés et mes collègues ont des positions similaires.
+
+Par exemple, sur l'utilisation évidente de ticket pour la gestion des tâches, la plannification des tâches et évaluer la 
+quantité de travail possible de l'équipe sur une durée donnée, etc.
+Mes avis sont appréciés pour l'organisation technique (review de code, etc).
