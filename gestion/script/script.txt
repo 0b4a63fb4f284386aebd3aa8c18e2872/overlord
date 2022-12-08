@@ -50,3 +50,11 @@ projets en python
 .mohoney
 .cmakepj
 .mazegen
+
+- gestion_sommeil_difficile_01
+
+Cela fait bien des semaines que mon sommeil est perturbé par cette situation.
+Pensant régulièrement à quel espèce de plan le réseau du Chaos veut me faire subir entre autre.
+Je me couche difficilement et je me réveille en pleine nuit régulièrement.
+
+L'épée de Damoclès du Chaos est désagréable.
