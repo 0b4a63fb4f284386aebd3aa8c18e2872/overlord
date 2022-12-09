@@ -534,3 +534,11 @@ Je suis des chaines sur YouTube qui parlent d'histoire :
 J'apprécie l'art. J'ai visité le musée d'Orsay entre 2019 et 2021.
 Au passage je réalise un jeu de société. Je suis sensible à l'esthétique des cases et des cartes qui le compose.
 J'ai participé à un stage de poésie.
+
+- surveillance_je_suis_01y
+
+J'apprécie les différentes gastronomies du monde.
+.française
+.italienne
+.asiatique 
+...
