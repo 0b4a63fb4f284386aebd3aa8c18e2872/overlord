@@ -358,6 +358,15 @@ J'ai donné mon avis plus d'une fois pour aider Julie, Julia, Emile ou Baptiste.
 Je n'ai créé aucun problème chez Netatmo (incendie, ou je ne sais quoi.).
 J'ai participé à un évènement ludique avec les collègues de chez Netatmo.
 
+- surveillance_je_suis_01h2
+
+Je n'insulte personne au travail.
+On m'a présenté la façon de gérer des bugs d'un collègues. J'ai commenté que je trouvais ça "con", pas devant lui bien sur.
+Les collègues de mon équipe était d'accord sur ce point.
+Préférer les messages Teams à un logiciel de suivi des tickets pour la gestion des bugs et tâches est une mauvaise stratégie, dit cordialement.
+Bisous
+Au passage, il s'agissait de faire une mise en scène du Chaos pour me faire passer pour quelqu'un d'irrespectable au travail.
+
 - surveillance_je_suis_01i
 
 Point de vue d'Elitys, je me suis rendu à chacun des évènements,
