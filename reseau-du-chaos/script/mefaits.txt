@@ -348,3 +348,20 @@ Je ne participe à aucune secte, et je ne suis le leader d'aucune secte.
 08 décembre 2022
 
 Je n'ai déclenché aucun incendie, dans ma résidence, ou ailleurs.
+
+- surveillance_je_suis_01h
+
+Je fais mon travail chez Netatmo (en présentiel ou en télétravail), qui est apprécié.
+Je suis force de proposition pour la création de script (python ou bash) permettant d'améliorer le cadre de travail de l'équipe.
+J'ai donné mon avis plus d'une fois pour aider Julie, Julia, Emile ou Baptiste.
+
+Je n'ai créé aucun problème chez Netatmo (incendie, ou je ne sais quoi.).
+J'ai participé à un évènement ludique avec les collègues de chez Netatmo.
+
+- surveillance_je_suis_01i
+
+Point de vue d'Elitys, je me suis rendu à chacun des évènements,
+que ça soit pour faire le point avec Gautier PETITJEAN ou autre.
+J'ai participé avec plaisir en Octobre à l'Onboarding Elitys.
+J'ai participé à une soirée jeux de société chez Elitys où j'ai animé un Burger Quiz.
+A chaque fois, je converse cordialement avec différentes personnes, et je ne crée aucun débordement.
