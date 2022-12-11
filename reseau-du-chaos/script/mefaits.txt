@@ -675,3 +675,10 @@ Il est modifié.
 - surveillance_je_suis_01ak
 
 Je sais gérer mes provisions fraiches ou durables.
+
+- surveillance_je_suis_01al
+
+Je n'ai pas besoin de couches. Ça ira merci.
+Des accidents arrivent, comme tout le monde.
+Bref.
+(Désolé de ne pas être une licorne qui fait des arc-en-ciel.)
