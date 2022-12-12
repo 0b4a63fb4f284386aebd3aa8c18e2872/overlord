@@ -891,6 +891,13 @@ Les jeux videos suivant font aussi partie de la liste:
 .Age of Mythology Retold
 .FINAL FANTASY XVI “AMBITION”
 
+- vol_video_games_06
+
+Le jeu video Elden Ring est inspiré (trop) d'idées de mon histoire d'heroic fantasy avec les esprits.
+(Un système spirituel/déifique géré par une volonté supmême, les lois du monde pouvant être changées,
+l'entre-terre.), et d'autres idées.
+Les accusés ont fait du profit et compte exploiter Elden Ring et mes idées qui le compose.
+
 - vol_yugioh_01
 
 Mes avis et idées sur le jeu de cartes YuGiOh ou sur les jeux vidéo YuGiOh 
